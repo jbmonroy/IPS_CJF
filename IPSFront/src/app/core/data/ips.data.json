@@ -1,0 +1,2329 @@
+{
+    "data": [
+        {
+            "id_sitio": 300,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "AV. INSURGENTES SUR 2065, COL. SAN ÁNGEL, DELEGACIÓN ÁLVARO OBREGÓN, CD. DE MÉXICO, C.P. 01000",
+            "ing_cjf": "Jesús Cortés Pérez",
+            "correo": "jcortesp@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #300 ext. 4008\nTeléfono Local: 5322 1700 ext. 4008\nTeléfono Directo: 5322 1700",
+            "celular": "Celular: 55 1485 7963"
+        },
+        {
+            "id_sitio": 302,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "AV. INSURGENTES SUR # 2417 COL. SAN ÁNGEL, DELEGACIÓN ÁLVARO OBREGÓN, C.P. 01000, CD. DE MÉXICO.",
+            "ing_cjf": "Braulio Israel Yunes Soria",
+            "correo": "biyunes@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #302 ext. 1719\nTeléfono Local: 5490 8000 ext. 1719\nTeléfono Directo: S\/N",
+            "celular": "Celular: 55 3233 7526"
+        },
+        {
+            "id_sitio": 303,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "AV. REVOLUCIÓN NO. 1886, DETRÁS DE AV. INSURGENTES SUR NO.  2417, COL. SAN ÁNGEL, DELEG. ÁLVARO OBREGÓN, C.P. 01000, ciudad DE MÉXICO, EDIFICIO ANEXO.",
+            "ing_cjf": "Braulio Israel Yunes Soria",
+            "correo": "biyunes@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #302 ext. 1719\nTeléfono Local: 5490 8000 ext. 1719\nTeléfono Directo: S\/N",
+            "celular": "Celular: 55 3233 7526"
+        },
+        {
+            "id_sitio": 304,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "EDUARDO MOLINA NO. 2, ACCESO 11, NIVEL P.B., COL. DEL PARQUE, DELEG. VENUSTIANO CARRANZA, C.P. 15960, ciudad DE MÉXICO.",
+            "ing_cjf": "Alberto Mendez Aragon",
+            "correo": "amendeza@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #304 ext. 6873\nTeléfono Local: 5133 8100 ext. 6873",
+            "celular": "Celular: 55 5403 4551"
+        },
+        {
+            "id_sitio": 305,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "EDUARDO MOLINA NO. 2, ACCESO 11, NIVEL P.B., COL. DEL PARQUE, DELEGACIÓN VENUSTIANO CARRANZA, CD. DE MÉXICO, C.P. 15960.",
+            "ing_cjf": "Roberto Silva Huesca",
+            "correo": "rsilva@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #304 ext. 6883\nTeléfono Local: 5133 8100 ext. 6883\nTeléfono Directo: 5133 6883",
+            "celular": "Celular: 55 1399 2231"
+        },
+        {
+            "id_sitio": 306,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "ANTIGUO CAMINO A CULHUACÁN NO.  202, COL. SANTA ISABEL INDUSTRIAL, DELEG. IZTAPALAPA, C.P. 09820, ciudad DE MÉXICO, ALMACEN DEL CJF.",
+            "ing_cjf": "Carmelo Ruiz Pérez",
+            "correo": "cruiz@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #328 ext. 1454\nTeléfono Local: 5037 0960 ext. 1454",
+            "celular": "Celular: 55 1814 3631"
+        },
+        {
+            "id_sitio": 307,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "AV. REVOLUCIÓN NO. 1884, COL. SAN ÁNGEL, DELEG. ÁLVARO OBREGÓN, C.P. 01000, ciudad DE MÉXICO.",
+            "ing_cjf": "Braulio Israel Yunes Soria",
+            "correo": "biyunes@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #302 ext. 1719\nTeléfono Local: 5490 8000 ext. 1719\nTeléfono Directo: S\/N",
+            "celular": "Celular: 55 3233 7526"
+        },
+        {
+            "id_sitio": 308,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "REVOLUCIÓN NO. 1508, COL. GUADALUPE INN, DELEGACIÓN ÁLVARO OBREGÓN, CD. DE MÉXICO, C.P. 01020",
+            "ing_cjf": "Mireya Parra Espinoza",
+            "correo": "mparra@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #308 ext. 5708\nTeléfono Local: 1719 0900 ext. 5708\nTeléfono Directo: 1719 0900",
+            "celular": "Celular: 56 1313 1807"
+        },
+        {
+            "id_sitio": 309,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "REVOLUCIÓN NO. 1340, COL. GUDALUPE INN, DELEG. ÁLVARO OBREGÓN, C.P. 01020, ciudad DE MÉXICO. VISITADURÍA.",
+            "ing_cjf": "Mireya Parra Espinoza",
+            "correo": "mparra@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #308 ext. 5708\nTeléfono Local: 1719 0900 ext. 5708\nTeléfono Directo: 1719 0900",
+            "celular": "Celular: 56 1313 1807"
+        },
+        {
+            "id_sitio": 310,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "AV. BOULEVARD ADOLFO LÓPEZ MATEOS NO. 2321, COL. TLACOPAC SAN ÁNGEL, DELEGACIÓN ÁLVARO OBREGÓN, CD. DE MÉXICO, C.P. 01760.",
+            "ing_cjf": "Noe Israel Duarte Muñoz",
+            "correo": "niduarte@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #310 ext. 2790\nTeléfono Local: 5377 3000 ext. 2790",
+            "celular": "Celular: 55 4058 4299"
+        },
+        {
+            "id_sitio": 312,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "BOULEVARD ADOLFO LÓPEZ MATEOS NO. 1950, COL. TLACOPAC, DELEGACIÓN ÁLVARO OBREGÓN, CD. DE MÉXICO, C.P. 01049.",
+            "ing_cjf": "Manuel Muñoz Jiménez",
+            "correo": "mmunozj@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #312 ext. 1402\nTeléfono Local: 5481 1000 ext. 1402",
+            "celular": "Celular: 55 3666 6321"
+        },
+        {
+            "id_sitio": 313,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "Avenida Revolución número 366, Colonia San Pedro de los Pinos, Alcaldía Benito Juárez, ciudad de México, C.P. 03820",
+            "ing_cjf": "Fernando Valdez Lara",
+            "correo": "fernando.valdez.lara@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #313 ext. 1129\nTeléfono Local: 1719 0990 ext. 1129",
+            "celular": "Celular: 55 3908 0996"
+        },
+        {
+            "id_sitio": 314,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "CALLE PICO DE TOLIMA NO. 29, COLONIA JARDINES EN LA MONTAÑA, C.P. 14210, ALCALDÍA TLALPAN, EN LA ciudad DE MÉXICO.",
+            "ing_cjf": "David Eduardo Ambriz Perez",
+            "correo": "david.ambriz.perez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #314 ext. 4002\nTeléfono Local: 5449 9500 ext. 4002",
+            "celular": "Celular: 55 3265 1700"
+        },
+        {
+            "id_sitio": 316,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "BUCARELI 22 Y 24, COL. CENTRO, DELEGACIÓN CUAUHTÉMOC, C.P. 06040.",
+            "ing_cjf": "José Trinidad Acosta Hernández",
+            "correo": "trinidad.acosta.hernandez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #318 ext. 3137\nTeléfono Local: 5449 9500 ext. 3137",
+            "celular": "Celular: 55 4816 7590"
+        },
+        {
+            "id_sitio": 318,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "CAMINO AL AJUSCO No. 170, COL. JARDINES EN LA MONTAÑA. DEL. TLALPAN, C.P. 14210, ciudad DE MÉXICO.",
+            "ing_cjf": "José Trinidad Acosta Hernández \/Erick Fernando Angeles Reyes",
+            "correo": "trinidad.acosta.hernandez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #318 ext. 3137\nTeléfono Local: 5449 9500 ext. 3137",
+            "celular": "Celular: 55 4816 7590"
+        },
+        {
+            "id_sitio": 320,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "AV. INSURGENTES SUR NO. 1888, COL. FLORIDA, CD. DE MÉXICO, C.P. 01030",
+            "ing_cjf": "Marco Antonio Morales Santillán",
+            "correo": "marco.morales.santillan@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #320 ext. 1689\nTeléfono Local: 1719 3600 ext. 1689\nTeléfono Directo: 1719 3600",
+            "celular": "Celular: 55 5419 2911"
+        },
+        {
+            "id_sitio": 322,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "AV. CANOA NO.79, TIZAPAN SAN ÁNGEL, DELEGACIÓN ÁLVARO OBREGÓN, CD. DE MÉXICO, C.P. 01090. ",
+            "ing_cjf": "David Eduardo Ambriz Perez",
+            "correo": "david.ambriz.perez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #314 ext. 4002\nTeléfono Local: 5449 9500 ext. 4002",
+            "celular": "Celular: 55 3265 1700"
+        },
+        {
+            "id_sitio": 323,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "AV. CANOA NO.79, TIZAPAN SAN ÁNGEL, DELEGACIÓN ÁLVARO OBREGÓN, CD. DE MÉXICO, C.P. 01090. ",
+            "ing_cjf": "Carlos Tagle\/ David alcantara"
+        },
+        {
+            "id_sitio": 324,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "JAIME NUNÓ NO. 175, COL. CUAUTEPEC, BARRIO BAJO, DELEG. GUSTAVO A. MADERO, C.P. 07210, ciudad DE MÉXICO.",
+            "ing_cjf": "Fernando Soberanez Enriquez",
+            "correo": "fernando.soberanes.enriquez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #324 ext. 1227\nTeléfono Local: 5039 8700 ext. 1227\nTeléfono Directo: 5039 8700",
+            "celular": "Celular: 55 3927 9035"
+        },
+        {
+            "id_sitio": 328,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "REFORMA NO. 80, LOMAS DE SAN LORENZO TEZONCO, DELEG. IZTAPALAPA, C.P. 09780, ciudad DE MÉXICO.",
+            "ing_cjf": "Carmelo Ruiz Pérez",
+            "correo": "carmelo.ruiz.perez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #328 ext. 1454\nTeléfono Local: 5037 0960 ext. 1454",
+            "celular": "Celular: 55 1814 3631"
+        },
+        {
+            "id_sitio": 332,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "ANTONIO MARTÍNEZ DE CASTRO Y JAVIER PIÑA PALACIOS S\/N, COL. SAN MATEO XALPA DELEGACIÓN XOCHIMILCO.",
+            "ing_cjf": "Luis Emanuel Estrada Rodríguez",
+            "correo": "luis.estrada.rodriguez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #332 ext. 1227\nTeléfono Local: 5334 2130 ext. 1227",
+            "celular": "Celular: 55 2779 5868"
+        },
+        {
+            "id_sitio": 334,
+            "estado": "Cd. de México",
+            "ciudad": "Cd. de México",
+            "direccion": "CAMINO AL AJUSCO NÚMERO 200  COL. JARDINES EN LA MONTAÑA  DEL. TLALPAN CP. 14120.     ",
+            "ing_cjf": "Julio César Pineda Flores",
+            "correo": "julio.pineda.flores@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #334 ext. 4426\nTeléfono Local: 5449 9500 ext. 4426",
+            "celular": "Celular: 55 4075 7204"
+        },
+        {
+            "id_sitio": 338,
+            "estado": "estado de México",
+            "ciudad": "Toluca",
+            "direccion": "CARRETERA A SANTA JUANA CENTRO, NUM.11, LOCALIDAD SANTA JUANA, ALMOLOYA DE JUAREZ, TOLUCA EDO.MEXICO.",
+            "ing_cjf": "Iván Abarca Sotelo",
+            "correo": "ivan.abarca.sotelo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #340 ext. 2555\nTeléfono Local: (722) 236 0500 ext. 2555",
+            "celular": "Celular: 72 2313 1726"
+        },
+        {
+            "id_sitio": 340,
+            "estado": "estado de México",
+            "ciudad": "Toluca",
+            "direccion": "DR. NICOLAS SAN JUAN NO.104, COL. EX-RANCHO CUAUHTÉMOC, C.P. 50010, TOLUCA, EDO. DE MÉXICO.",
+            "ing_cjf": "Iván Abarca Sotelo",
+            "correo": "ivan.abarca.sotelo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #340 ext. 2555\nTeléfono Local: (722) 236 0500 ext. 2555",
+            "celular": "Celular: 72 2313 1726"
+        },
+        {
+            "id_sitio": 341,
+            "estado": "estado de México",
+            "ciudad": "Toluca",
+            "direccion": "DR. NICOLAS SAN JUAN NO.104, COL. EX-RANCHO CUAUHTÉMOC, C.P. 50010, TOLUCA, EDO. DE MÉXICO.",
+            "ing_cjf": "Iván Abarca Sotelo",
+            "correo": "ivan.abarca.sotelo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #340 ext. 2555\nTeléfono Local: (722) 236 0500 ext. 2555",
+            "celular": "Celular: 72 2313 1726"
+        },
+        {
+            "id_sitio": 342,
+            "estado": "estado de México",
+            "ciudad": "Toluca",
+            "direccion": "SOR JUANA INÉS DE LA CRUZ NO. 302 SUR, COL. CENTRO, C.P. 50000, TOLUCA, EDO. DE MÉXICO.",
+            "ing_cjf": "Iván Abarca Sotelo",
+            "correo": "ivan.abarca.sotelo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #340 ext. 2555\nTeléfono Local: (722) 236 0500 ext. 2555",
+            "celular": "Celular: 72 2313 1726"
+        },
+        {
+            "id_sitio": 343,
+            "estado": "estado de México",
+            "ciudad": "Toluca",
+            "direccion": "LUIS GUTIÉRREZ DOSAL, LOTES 4, 5 Y 6, PARQUE INDUSTRIAL EXPORTEC, estado DE MÉXICO, C.P.50200.",
+            "ing_cjf": "Iván Abarca Sotelo",
+            "correo": "ivan.abarca.sotelo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #340 ext. 2555\nTeléfono Local: (722) 236 0500 ext. 2555",
+            "celular": "Celular: 72 2313 1726"
+        },
+        {
+            "id_sitio": 345,
+            "estado": "estado de México",
+            "ciudad": "Toluca",
+            "direccion": "CALLE RAFAEL NAVAS GARCÍA NO. 27, LOTES 12, 13 Y 14, COL. RANCHO LA NORIA, LERMA, estado DE MÉXICO, C.P. 52000. ",
+            "ing_cjf": "Iván Abarca Sotelo",
+            "correo": "ivan.abarca.sotelo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #340 ext. 2555\nTeléfono Local: (722) 236 0500 ext. 2555",
+            "celular": "Celular: 72 2313 1726"
+        },
+        {
+            "id_sitio": 346,
+            "estado": "estado de México",
+            "ciudad": "Naucalpan",
+            "direccion": "IGNACIO LÓPEZ RAYÓN NO. 90, COL. CENTRO, TLALNEPANTLA, EDO. DE MÉXICO, C.P. 54000.",
+            "ing_cjf": "Luis Miguel López Cortés \/ Juan Alberto Garnica Martínez",
+            "correo": "juan.garnica.martinez@correo.cjf.gob.mx \/ luis.lopez.cortes@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #350 ext. 2000\nTeléfono Local: 5587 0500 ext. 2000\nTeléfono Directo: 5387 0570 \/  Teléfono de Red: #354 ext. 1330\nTeléfono Local: 5387 0550 ext. 1330",
+            "celular": "Celular: 55 5953 8409 \/  Celular: 55 4896 5541"
+        },
+        {
+            "id_sitio": 350,
+            "estado": "estado de México",
+            "ciudad": "Naucalpan",
+            "direccion": "BOULEVARD TOLUCA NO. 4, COL. SAN FRANCISCO CUAUTLALPAN, EDO. DE MÉXICO.",
+            "ing_cjf": "Luis Miguel López Cortés \/ Juan Alberto Garnica Martínez",
+            "correo": "juan.garnica.martinez@correo.cjf.gob.mx \/ luis.lopez.cortes@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #350 ext. 2000\nTeléfono Local: 5587 0500 ext. 2000\nTeléfono Directo: 5387 0570 \/  Teléfono de Red: #354 ext. 1330\nTeléfono Local: 5387 0550 ext. 1330",
+            "celular": "Celular: 55 5953 8409 \/  Celular: 55 4896 5541"
+        },
+        {
+            "id_sitio": 351,
+            "estado": "estado de México",
+            "ciudad": "Nezahualcóyotl",
+            "direccion": "CABALLO BAYO NO.146, ENTRE CIELITO LINDO Y AV. CHIMALHUACÁN, COL. BENITO JUÁREZ, C.P. 57000, CD. NEZAHUALCÓYOTL, EDO. DE MÉXICO.",
+            "ing_cjf": "Miguel ángel Cedeño Franco",
+            "correo": "macedeno@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #304 ext. 6883\nTeléfono Local: 5133 8100 ext. 6883",
+            "celular": "Celular: 55 1829 7539"
+        },
+        {
+            "id_sitio": 352,
+            "estado": "estado de México",
+            "ciudad": "Nezahualcóyotl",
+            "direccion": "AV. BORDO DE XOCHIACA NO. 2 C, ciudad JARDÍN, C.P. 57000, CD. NEZAHUALCÓYOTL, EDO. DE MÉXICO.",
+            "ing_cjf": "Miguel ángel Cedeño Franco",
+            "correo": "macedeno@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #304 ext. 6883\nTeléfono Local: 5133 8100 ext. 6883",
+            "celular": "Celular: 55 1829 7539"
+        },
+        {
+            "id_sitio": 354,
+            "estado": "estado de México",
+            "ciudad": "Naucalpan",
+            "direccion": "AV. 16 DE SEPTIEMBRE #784 COL. INDUSTRIAL NAUCALPAN, EDO. DE MÉXICO, C.P. 53370",
+            "ing_cjf": "Luis Miguel López Cortés \/ Juan Alberto Garnica Martínez",
+            "correo": "juan.garnica.martinez@correo.cjf.gob.mx \/ luis.lopez.cortes@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #350 ext. 2000\nTeléfono Local: 5587 0500 ext. 2000\nTeléfono Directo: 5387 0570 \/  Teléfono de Red: #354 ext. 1330\nTeléfono Local: 5387 0550 ext. 1330",
+            "celular": "Celular: 55 5953 8409 \/  Celular: 55 4896 5541"
+        },
+        {
+            "id_sitio": 366,
+            "estado": "Jalisco",
+            "ciudad": "Guadalajara",
+            "direccion": "PERIFÉRICO PTE S\/N, COL. EL COLLI, A INMEDIACIONES DEL CERRO DEL COLLI, EN EL MUNICIPIO DE ZAPOPAN, JAL. C.P. 45036.",
+            "ing_cjf": "Sergio Meza Bustamante",
+            "correo": "sergio.meza.bustamante@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #366 ext. 2661\nTeléfono Local: (33) 3777 8200 ext. 2661\nTeléfono Directo: (33) 3777 7820",
+            "celular": "Celular: 33 1410 3197"
+        },
+        {
+            "id_sitio": 367,
+            "estado": "Jalisco",
+            "ciudad": "Guadalajara",
+            "direccion": "ANILLO PERIFÉRICO PONIENTE MANUEL GOMEZ MORIN NO. 7727 FRACC. ciudad JUDICIAL, ZAPOPAN JALISCO, C.P. 45010.",
+            "ing_cjf": "Sergio Meza Bustamante",
+            "correo": "sergio.meza.bustamante@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #366 ext. 2661\nTeléfono Local: (33) 3777 8200 ext. 2661\nTeléfono Directo: (33) 3777 7820",
+            "celular": "Celular: 33 1410 3197"
+        },
+        {
+            "id_sitio": 372,
+            "estado": "Jalisco",
+            "ciudad": "Guadalajara",
+            "direccion": "PINO SUAREZ No. 527, COL. CENTRO BARRANQUITAS, GUADALAJARA, JAL. C.P. 44280.",
+            "ing_cjf": "Sergio Meza Bustamante",
+            "correo": "sergio.meza.bustamante@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #366 ext. 2661\nTeléfono Local: (33) 3777 8200 ext. 2661\nTeléfono Directo: (33) 3777 7820",
+            "celular": "Celular: 33 1410 3197"
+        },
+        {
+            "id_sitio": 373,
+            "estado": "Jalisco",
+            "ciudad": "Guadalajara",
+            "direccion": "ANDRÉS TERÁN NÚMERO 1185, COLONIA CHAPULTEPEC COUNTRY, C.P. 44620, GUADALAJARA JALISCO",
+            "ing_cjf": "Sergio Meza Bustamante",
+            "correo": "sergio.meza.bustamante@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #366 ext. 2661\nTeléfono Local: (33) 3777 8200 ext. 2661\nTeléfono Directo: (33) 3777 7820",
+            "celular": "Celular: 33 1410 3197"
+        },
+        {
+            "id_sitio": 378,
+            "estado": "Jalisco",
+            "ciudad": "Guadalajara",
+            "direccion": "AV. PATRIA NO. 1725, PISO 2, COL. AGRARIA, GUADALAJARA, JAL., C.P. 44667.",
+            "ing_cjf": "Sergio Meza Bustamante",
+            "correo": "sergio.meza.bustamante@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #366 ext. 2661\nTeléfono Local: (33) 3777 8200 ext. 2661\nTeléfono Directo: (33) 3777 7820",
+            "celular": "Celular: 33 1410 3197"
+        },
+        {
+            "id_sitio": 380,
+            "estado": "Jalisco",
+            "ciudad": "Puente Grande GENERAR OFICIO",
+            "direccion": "KM. 17.5 DE LA CARRETERA LIBRE A ZAPOTLANEJO, COLONIA COMPLEJO PENITENCIARIO EN PUENTE GRANDE, JALISCO, PUENTE GRANDE, C.P. 45427",
+            "ing_cjf": "Eliseo Cesáreo Rivero Trujillo",
+            "correo": "eliseo.rivero.trujillo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #380 ext. 3687\nTeléfono Local: (33) 3284 0700 ext. 3687",
+            "celular": "Celular: 33 3839 6793"
+        },
+        {
+            "id_sitio": 381,
+            "estado": "Jalisco",
+            "ciudad": "Puente Grande",
+            "direccion": "LOCAL ANEXO AL NUEVO CENTRO PENITENCIARIO DE LA ZONA METROPOLITANA PUENTE GRANDE, KM. 17.5 CARRETERA LIBRE A ZAPOTLANEJO, C.P. 45427, CENTRO PENITENCIARIO, PUENTE GRANDE, JALISCO. CENTRO DE JUSTICIA PENAL FEDERAL EN PUENTE GRANDE.",
+            "ing_cjf": "Eliseo Cesáreo Rivero Trujillo",
+            "correo": "eliseo.rivero.trujillo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #380 ext. 3687\nTeléfono Local: (33) 3284 0700 ext. 3687",
+            "celular": "Celular: 33 3839 6793"
+        },
+        {
+            "id_sitio": 390,
+            "estado": "Colima",
+            "ciudad": "Colima",
+            "direccion": "CALZADA PEDRO A. GALVÁN NÚMERO 239 NORTE COLONIA CENTRO, C.P. 28000 COLIMA, COLIMA.",
+            "ing_cjf": "Edder Elías Ochoa González",
+            "correo": "eeochoag@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #392 ext. 1020\nTeléfono Local: (312) 316 4800 ext. 1020",
+            "celular": "Celular: 31 2200 6503"
+        },
+        {
+            "id_sitio": 392,
+            "estado": "Colima",
+            "ciudad": "Colima",
+            "direccion": "CJPF COLIMA, LIBRAMIENTO ORIENTE DEL BOULEVARD CAMINO REAL, COLIMA,COLIMA.",
+            "ing_cjf": "Edder Elías Ochoa González",
+            "correo": "eeochoag@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #392 ext. 1020\nTeléfono Local: (312) 316 4800 ext. 1020",
+            "celular": "Celular: 31 2200 6503"
+        },
+        {
+            "id_sitio": 395,
+            "estado": "Colima",
+            "ciudad": "Colima",
+            "direccion": "BLVD. CAMINO REAL NO. 1052, COL. HOSPITAL GENERAL Y COMPLEJO ADMINISTRATIVO, C.P. 28019, COLIMA, COLIMA.",
+            "ing_cjf": "Edder Elías Ochoa González",
+            "correo": "eeochoag@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #392 ext. 1020\nTeléfono Local: (312) 316 4800 ext. 1020",
+            "celular": "Celular: 31 2200 6503"
+        },
+        {
+            "id_sitio": 400,
+            "estado": "Nuevo León",
+            "ciudad": "Monterrey",
+            "direccion": "DIAGONAL SANTA ENGRACIA NO. 221, COL. LOMAS DE SAN FRANCISCO, MONTERREY, N.L., C.P. 64710.",
+            "ing_cjf": "Edgar Omar Portales Flores",
+            "correo": "edgar.portales.flores@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #400 ext. 2342\nTeléfono Local: (81) 8133 2200 ext. 2342\nTeléfono Directo: (81) 8133 3220",
+            "celular": "Celular: 81 8020 3150"
+        },
+        {
+            "id_sitio": 401,
+            "estado": "Nuevo León",
+            "ciudad": "Cadereyta",
+            "direccion": "CARRETERA CADEREYTA DR. GONZÁLEZ S\/N KM. 1.5, COLONIA SAN BARTOLO, C.P. 67456, CADEREYTA JIMÉNEZ, NUEVO LEÓN.",
+            "ing_cjf": "Edgar Omar Portales Flores",
+            "correo": "edgar.portales.flores@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #400 ext. 2342\nTeléfono Local: (81) 8133 2200 ext. 2342\nTeléfono Directo: (81) 8133 3220",
+            "celular": "Celular: 81 8020 3150"
+        },
+        {
+            "id_sitio": 410,
+            "estado": "Nuevo León",
+            "ciudad": "Monterrey",
+            "direccion": "AV. CONSTITUCIÓN NO. 241 PTE., ZONA CENTRO, MONTERREY, N.L., C.P. 64000.",
+            "ing_cjf": "Edgar Omar Portales Flores",
+            "correo": "edgar.portales.flores@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #400 ext. 2342\nTeléfono Local: (81) 8133 2200 ext. 2342\nTeléfono Directo: (81) 8133 3220",
+            "celular": "Celular: 81 8020 3150"
+        },
+        {
+            "id_sitio": 411,
+            "estado": "Nuevo León",
+            "ciudad": "Monterrey",
+            "direccion": "PADRE MIER NO. 410 PTE., ESQUINA CON RAYÓN, PISO 1 Y 2, COL. CENTRO, C.P. 64000, MONTERREY, NUEVO LEÓN. ",
+            "ing_cjf": "Edgar Omar Portales Flores",
+            "correo": "edgar.portales.flores@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #400 ext. 2342\nTeléfono Local: (81) 8133 2200 ext. 2342\nTeléfono Directo: (81) 8133 3220",
+            "celular": "Celular: 81 8020 3150"
+        },
+        {
+            "id_sitio": 412,
+            "estado": "Nuevo León",
+            "ciudad": "Monterrey",
+            "direccion": "MARIANO ESCOBEDO 201 SUR \/ CON MODESTO ARREOLA, ZONA CENTRO, MONTERREY, N.L., C.P. 64000.",
+            "ing_cjf": "Edgar Omar Portales Flores",
+            "correo": "edgar.portales.flores@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #400 ext. 2342\nTeléfono Local: (81) 8133 2200 ext. 2342\nTeléfono Directo: (81) 8133 3220",
+            "celular": "Celular: 81 8020 3150"
+        },
+        {
+            "id_sitio": 414,
+            "estado": "Nuevo León",
+            "ciudad": "Monterrey",
+            "direccion": "AV. CHIMENEA NO. 201, FRACCIONAMIENTO CENTRIKA, SEGUNDO SECTRO, C.P. 64550, MONTERREY, NUEVO LEÓN.",
+            "ing_cjf": "Edgar Omar Portales Flores",
+            "correo": "edgar.portales.flores@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #400 ext. 2342\nTeléfono Local: (81) 8133 2200 ext. 2342\nTeléfono Directo: (81) 8133 3220",
+            "celular": "Celular: 81 8020 3150"
+        },
+        {
+            "id_sitio": 420,
+            "estado": "Sonora",
+            "ciudad": "Hermosillo",
+            "direccion": "BLVD. LUIS ENCINAS JOHNSON NO. 253, ESQUINA CON CALLE MONTEVERDE, COL. SAN BENITO, C.P. 83190, HERMOSILLO, SONORA.",
+            "ing_cjf": "Horacio Rafael García Durazo \/José Rubén Rivera Favela",
+            "correo": "horacio.garcia.durazo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #420 ext. 1760\nTeléfono Local: (662) 109 0700 ext. 1760\nTeléfono Directo: (662) 109 0708",
+            "celular": "Celular: 66 2298 0691"
+        },
+        {
+            "id_sitio": 426,
+            "estado": "Sonora",
+            "ciudad": "Hermosillo",
+            "direccion": "VIALIDAD FUTURA P.O. Y CALLE 4 P.O., COL. PUERTA OESTE, HERMOSILLO, SONORA. EDIFICIO SEDE DEL PJF EN HERMOSILLO, SON.",
+            "ing_cjf": "Horacio Rafael García Durazo \/José Rubén Rivera Favela",
+            "correo": "horacio.garcia.durazo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #420 ext. 1760\nTeléfono Local: (662) 109 0700 ext. 1760\nTeléfono Directo: (662) 109 0708",
+            "celular": "Celular: 66 2298 0691"
+        },
+        {
+            "id_sitio": 430,
+            "estado": "Sonora",
+            "ciudad": "Hermosillo",
+            "direccion": "CALLE DR. PALIZA NO. 44, ESQUINA CON CALLE LONDRES, COL. CENTENARIO, C.P. 83260, HERMOSILLO, SONORA",
+            "ing_cjf": "Horacio Rafael García Durazo \/José Rubén Rivera Favela",
+            "correo": "horacio.garcia.durazo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #420 ext. 1760\nTeléfono Local: (662) 109 0700 ext. 1760\nTeléfono Directo: (662) 109 0708",
+            "celular": "Celular: 66 2298 0691"
+        },
+        {
+            "id_sitio": 431,
+            "estado": "Sonora",
+            "ciudad": "Hermosillo",
+            "direccion": "CALLE DR. PALIZA NO. 44, ESQUINA CON CALLE GALEANA, COL. CENTENARIO, C.P. 83260, HERMOSILLO, SONORA",
+            "ing_cjf": "Horacio Rafael García Durazo \/José Rubén Rivera Favela",
+            "correo": "horacio.garcia.durazo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #420 ext. 1760\nTeléfono Local: (662) 109 0700 ext. 1760\nTeléfono Directo: (662) 109 0708",
+            "celular": "Celular: 66 2298 0691"
+        },
+        {
+            "id_sitio": 436,
+            "estado": "Sonora",
+            "ciudad": "Nogales",
+            "direccion": "EDIFICIO “PRONAF” PLUTARCO ELIAS CALLES Y LÓPEZ MATEOS 3ER PISO, COL. CENTRO, C.P. 84000, NOGALES, SONORA.",
+            "ing_cjf": "Carlos Isaac Rodríguez Valenzuela",
+            "correo": "carlos.rodriguez.valenzuela@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #436 ext. 1173\nTeléfono Local: S\/N\nTeléfono Directo: (631) 120 9397",
+            "celular": "Celular: 66 2103 2004"
+        },
+        {
+            "id_sitio": 440,
+            "estado": "Sonora",
+            "ciudad": "Cd. Obregón",
+            "direccion": "CALLE NÁINARI ESQUINA CON CALLE SAHUARIPA, COL. CUAUHTÉMOC, C.P. 85110, CD. OBREGÓN, SONORA.",
+            "ing_cjf": "Horacio Rafael García Durazo \/José Rubén Rivera Favela",
+            "correo": "horacio.garcia.durazo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #420 ext. 1760\nTeléfono Local: (662) 109 0700 ext. 1760\nTeléfono Directo: (662) 109 0708",
+            "celular": "Celular: 66 2298 0691"
+        },
+        {
+            "id_sitio": 442,
+            "estado": "Sonora",
+            "ciudad": "Cd. Obregón",
+            "direccion": "CALLE JUAN ÁLVAREZ NO. 940 ALTOS, COL. CAMPESTRE, C.P. 85160, CD. OBREGÓN, SONORA.",
+            "ing_cjf": "Horacio Rafael García Durazo \/José Rubén Rivera Favela",
+            "correo": "horacio.garcia.durazo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #420 ext. 1760\nTeléfono Local: (662) 109 0700 ext. 1760\nTeléfono Directo: (662) 109 0708",
+            "celular": "Celular: 66 2298 0691"
+        },
+        {
+            "id_sitio": 448,
+            "estado": "Sonora",
+            "ciudad": "Agua Prieta",
+            "direccion": "CALLE 9 NO. 3801, ESQUINA AV. 38, COL. LUIS DONALDO COLOSIO, C.P. 84270, AGUA PRIETA, SINALOA.",
+            "ing_cjf": "Carlos Isaac Rodríguez Valenzuela",
+            "correo": "carlos.rodriguez.valenzuela@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #436 ext. 1173\nTeléfono Local: S\/N\nTeléfono Directo: (631) 120 9397",
+            "celular": "Celular: 66 2103 2004"
+        },
+        {
+            "id_sitio": 460,
+            "estado": "Puebla",
+            "ciudad": "Cholula",
+            "direccion": "AV. OSA MENOR NO. 82, ALA NORTE, ciudad JUDICIAL SIGLO XXI, RESERVA TERRITORIAL ATLIXCÁYOTL, PUEBLA, C.P. 72810.",
+            "ing_cjf": "Juan Manuel García Ortiz",
+            "correo": "juan.garcia.ortiz@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #460 ext. 3255\nTeléfono Local: (222) 303 7200 ext. 3255\nTeléfono Directo: (222) 303 7372",
+            "celular": "Celular: 22 2113 2687"
+        },
+        {
+            "id_sitio": 462,
+            "estado": "Puebla",
+            "ciudad": "Puebla",
+            "direccion": "AV. 23 PONIENTE NO. 2509, LOS VOLCANES, C.P. 72410, PUEBLA, PUEBLA.",
+            "ing_cjf": "Juan Manuel García Ortiz",
+            "correo": "juan.garcia.ortiz@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #460 ext. 3255\nTeléfono Local: (222) 303 7200 ext. 3255\nTeléfono Directo: (222) 303 7372",
+            "celular": "Celular: 22 2113 2687"
+        },
+        {
+            "id_sitio": 464,
+            "estado": "Puebla",
+            "ciudad": "Puebla",
+            "direccion": "BLVD. HERMANOS SERDÁN NO. 2, SEGUNDO PISO, COLONIA REAL DEL MONTE, PUEBLA, C.P. 72060.",
+            "ing_cjf": "Juan Manuel García Ortiz",
+            "correo": "juan.garcia.ortiz@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #460 ext. 3255\nTeléfono Local: (222) 303 7200 ext. 3255\nTeléfono Directo: (222) 303 7372",
+            "celular": "Celular: 22 2113 2687"
+        },
+        {
+            "id_sitio": 467,
+            "estado": "Puebla",
+            "ciudad": "Puebla",
+            "direccion": "BOULEVARD MUNICIPIO LIBRE NO. 1910, COLONIA EX HACIENDA MAYORAZGO, C.P. 72840, EN PUEBLA, PUEBLA.",
+            "ing_cjf": "Juan Manuel García Ortiz",
+            "correo": "juan.garcia.ortiz@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #460 ext. 3255\nTeléfono Local: (222) 303 7200 ext. 3255\nTeléfono Directo: (222) 303 7372",
+            "celular": "Celular: 22 2113 2687"
+        },
+        {
+            "id_sitio": 468,
+            "estado": "Puebla",
+            "ciudad": "Puebla",
+            "direccion": "AVENIDA LIBERTAD NO. 69866 DE LA JUNTA AUXILIAR SAN FRANCISCO, TOTIMEHUACÁN, TECALI, PUEBLA.",
+            "ing_cjf": "Juan Manuel García Ortiz",
+            "correo": "juan.garcia.ortiz@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #460 ext. 3255\nTeléfono Local: (222) 303 7200 ext. 3255\nTeléfono Directo: (222) 303 7372",
+            "celular": "Celular: 22 2113 2687"
+        },
+        {
+            "id_sitio": 470,
+            "estado": "Veracruz",
+            "ciudad": "Boca del Rio",
+            "direccion": "AVENIDA S.S. JUAN PABLO II NO. 646 ESQ. TIBURÓN, COLONIA FRACCIONAMIENTO COSTA DE ORO, BOCA DEL RÍO, VERACRUZ, C.P. 94299.",
+            "ing_cjf": "Sergio Antonio Colina Trujillo",
+            "correo": "sergio.colina.trujillo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #470 ext. 1481\nTeléfono Local: (229) 923 6700 ext. 1481\nTeléfono Directo: (229) 923 6755",
+            "celular": "Celular: 22 9953 4476"
+        },
+        {
+            "id_sitio": 472,
+            "estado": "Veracruz",
+            "ciudad": "Boca del Rio",
+            "direccion": "HABANERAS NO. 315, FRACC. JARDINES DE VIRGINIA, MUNICIPIO DE BOCA DEL RÍO, BOCA DEL RIO, VER., C.P. 94294.",
+            "ing_cjf": "Sergio Antonio Colina Trujillo",
+            "correo": "sergio.colina.trujillo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #470 ext. 1481\nTeléfono Local: (229) 923 6700 ext. 1481\nTeléfono Directo: (229) 923 6755",
+            "celular": "Celular: 22 9953 4476"
+        },
+        {
+            "id_sitio": 475,
+            "estado": "Veracruz",
+            "ciudad": "Veracruz",
+            "direccion": "AV. RAYÓN NO. 287, ESQ. AV. 16 DE SEPTIEMBRE, “EDIFICIO FOSQUIBA”, COL. FAROS, C.P. 91707, VERACRUZ, VERACRUZ.",
+            "ing_cjf": "Sergio Antonio Colina Trujillo",
+            "correo": "sergio.colina.trujillo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #470 ext. 1481\nTeléfono Local: (229) 923 6700 ext. 1481\nTeléfono Directo: (229) 923 6755",
+            "celular": "Celular: 22 9953 4476"
+        },
+        {
+            "id_sitio": 476,
+            "estado": "Veracruz",
+            "ciudad": "Veracruz",
+            "direccion": "BLVD. AVILA CAMACHO NO. 151, ENTRE DOBLADO Y SPORTING, COL. CENTRO, C.P. 91700, VERACRUZ, VERACRUZ.",
+            "ing_cjf": "Sergio Antonio Colina Trujillo",
+            "correo": "sergio.colina.trujillo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #470 ext. 1481\nTeléfono Local: (229) 923 6700 ext. 1481\nTeléfono Directo: (229) 923 6755",
+            "celular": "Celular: 22 9953 4476"
+        },
+        {
+            "id_sitio": 477,
+            "estado": "Veracruz",
+            "ciudad": "Veracruz",
+            "direccion": "BOULEVARD ADOLFO RUIZ CORTINES Y AVENIDA TIBURÓN NO. 1600, COLONIA FRACCIONAMIENTO COSTA DE ORO, EN EL MUNICIPIO DE BOCA DEL RÍO, VERACRUZ.",
+            "ing_cjf": "Sergio Antonio Colina Trujillo",
+            "correo": "sergio.colina.trujillo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #470 ext. 1481\nTeléfono Local: (229) 923 6700 ext. 1481\nTeléfono Directo: (229) 923 6755",
+            "celular": "Celular: 22 9953 4476"
+        },
+        {
+            "id_sitio": 480,
+            "estado": "Veracruz",
+            "ciudad": "Xalapa",
+            "direccion": "AV. CULTURAS VERACRUZANAS NO. 120, COL. LA RESERVA, XALAPA, VER., C.P. 91096.",
+            "ing_cjf": "Sergio Chipol Toto.",
+            "correo": "sergio.chipol.toto@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:#480 ext. 3250\nTeléfono Local:(228) 141 0600 ext. 3250\nTeléfono Directo:(228) 141 0601",
+            "celular": "Celular: 22 8130 8869"
+        },
+        {
+            "id_sitio": 482,
+            "estado": "Veracruz",
+            "ciudad": "Xalapa",
+            "direccion": "AV. ADOLFO RUIZ CORTINES NO. 1628, FRANCISCO FERRER GUARDIA, XALAPA, VERACRUZ, C.P. 91020.",
+            "ing_cjf": "Sergio Chipol Toto.",
+            "correo": "sergio.chipol.toto@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:#480 ext. 3250\nTeléfono Local:(228) 141 0600 ext. 3250\nTeléfono Directo:(228) 141 0601",
+            "celular": "Celular: 22 8130 8869"
+        },
+        {
+            "id_sitio": 484,
+            "estado": "Veracruz",
+            "ciudad": "Xalapa",
+            "direccion": "AV. AVILA CAMACHO NO.190, COL. CENTRO XALAPA, VERACRUZ, C.P. 90100.",
+            "ing_cjf": "Sergio Chipol Toto.",
+            "correo": "sergio.chipol.toto@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:#480 ext. 3250\nTeléfono Local:(228) 141 0600 ext. 3250\nTeléfono Directo:(228) 141 0601",
+            "celular": "Celular: 22 8130 8869"
+        },
+        {
+            "id_sitio": 487,
+            "estado": "Veracruz",
+            "ciudad": "Xalapa",
+            "direccion": "AVENIDA MANUEL ÁVILA CAMACHO NO. 156, ESQUINA CON CALLE POZA RICA, COLONIA CENTRO, C.P. 91000 EN XALAPA, VERACRUZ.",
+            "ing_cjf": "Sergio Chipol Toto.",
+            "correo": "sergio.chipol.toto@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:#480 ext. 3250\nTeléfono Local:(228) 141 0600 ext. 3250\nTeléfono Directo:(228) 141 0601",
+            "celular": "Celular: 22 8130 8869"
+        },
+        {
+            "id_sitio": 488,
+            "estado": "Veracruz",
+            "ciudad": "Xalapa",
+            "direccion": "AVENIDA MÁRTIRES 28 DE AGOSTO NÚMERO 717, DE LA COLONIA FRANCISCO FERRER GUARDIA, C.P. 91096 EN XALAPA, VERACRUZ.",
+            "ing_cjf": "Sergio Chipol Toto.",
+            "correo": "sergio.chipol.toto@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:#480 ext. 3250\nTeléfono Local:(228) 141 0600 ext. 3250\nTeléfono Directo:(228) 141 0601",
+            "celular": "Celular: 22 8130 8869"
+        },
+        {
+            "id_sitio": 490,
+            "estado": "Veracruz",
+            "ciudad": "Villa Aldama",
+            "direccion": "LERDO DE TEJADA S\/N, CONGREGACION CERRO DE LEON, VILLA ALDAMA, C.P. 91345.",
+            "ing_cjf": "Sergio Chipol Toto.",
+            "correo": "sergio.chipol.toto@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:#480 ext. 3250\nTeléfono Local:(228) 141 0600 ext. 3250\nTeléfono Directo:(228) 141 0601",
+            "celular": "Celular: 22 8130 8869"
+        },
+        {
+            "id_sitio": 494,
+            "estado": "Veracruz",
+            "ciudad": "Tuxpan",
+            "direccion": "AVENIDA INDEPENDENCIA (CALLE MANUEL MAPLEZ ARCE) NO. 178 , COL. RODRÍGUEZ CANO, TUXPAN, VER., C.P. 92880.",
+            "ing_cjf": "Agustín Julio Díaz",
+            "correo": "agustin.julio.diaz@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #502 ext. 1001\nTeléfono Local: (782) 824 9954 ext. 1000\nTeléfono Directo: (782) 824 9954",
+            "celular": "Celular: 78 2149 4263"
+        },
+        {
+            "id_sitio": 496,
+            "estado": "Veracruz",
+            "ciudad": "Tuxpan",
+            "direccion": "AVENIDA INDEPENDENCIA (CALLE MANUEL MAPLES ARCE) NO. 188, COL. RODRÍGUEZ CANO, TUXPAN, VER., C.P. 92880.",
+            "ing_cjf": "Agustín Julio Díaz",
+            "correo": "agustin.julio.diaz@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #502 ext. 1001\nTeléfono Local: (782) 824 9954 ext. 1000\nTeléfono Directo: (782) 824 9954",
+            "celular": "Celular: 78 2149 4263"
+        },
+        {
+            "id_sitio": 498,
+            "estado": "Veracruz",
+            "ciudad": "Tuxpan",
+            "direccion": "LIBERTAD NO. 12, ESQ. AV. CUAUHTÉMOC, COLONIA BUROCRATICA, TUXPAN, VERACRUZ, C.P. 92880.",
+            "ing_cjf": "Agustín Julio Díaz",
+            "correo": "agustin.julio.diaz@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #502 ext. 1001\nTeléfono Local: (782) 824 9954 ext. 1000\nTeléfono Directo: (782) 824 9954",
+            "celular": "Celular: 78 2149 4263"
+        },
+        {
+            "id_sitio": 502,
+            "estado": "Veracruz",
+            "ciudad": "Poza Rica",
+            "direccion": "AV. PALMAS PREPARATORIA ESQUINA TAJÍN S.N., FRACCIONAMIENTO. PALMAS, POZA RICA, VER., C.P. 93230.",
+            "ing_cjf": "Agustín Julio Díaz",
+            "correo": "agustin.julio.diaz@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #502 ext. 1001\nTeléfono Local: (782) 824 9954 ext. 1000\nTeléfono Directo: (782) 824 9954",
+            "celular": "Celular: 78 2149 4263"
+        },
+        {
+            "id_sitio": 507,
+            "estado": "Veracruz",
+            "ciudad": "Coatzacoalcos",
+            "direccion": "GUTIÉRREZ ZAMORA NO. 419, LOTE NO. 11 Y FRACCIÓN ADYACENTE DE CALLEJÓN, MANZANA 28, COLONIA CENTRO, EN COATZACOALCOS, VERACRUZ.",
+            "ing_cjf": "Cristian David Castillo Colloy",
+            "correo": "cristian.castillo.colloy@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #510 ext. 2444\nTeléfono Local:\n(921) 211 4300 ext. 2444\nTeléfono Directo:\n(921) 143 00",
+            "celular": "Celular: 92 1254 2407"
+        },
+        {
+            "id_sitio": 508,
+            "estado": "Veracruz",
+            "ciudad": "Coatzacoalcos",
+            "direccion": "HEROICO COLEGIO MILITAR NO. 401 Y 403 ESQUINA IGNACIO ZARAGOZA, CENTRO, COATZACOALCOS, C.P. 96400, VERACRUZ.",
+            "ing_cjf": "Cristian David Castillo Colloy",
+            "correo": "cristian.castillo.colloy@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #510 ext. 2444\nTeléfono Local:\n(921) 211 4300 ext. 2444\nTeléfono Directo:\n(921) 143 00",
+            "celular": "Celular: 92 1254 2407"
+        },
+        {
+            "id_sitio": 510,
+            "estado": "Veracruz",
+            "ciudad": "Coatzacoalcos",
+            "direccion": "AV. UNIVERSIDAD KM 12, RESERVA TERRITORIAL, COATZACOALCOS, VERACRUZ, C.P. 96535.",
+            "ing_cjf": "Cristian David Castillo Colloy",
+            "correo": "cristian.castillo.colloy@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #510 ext. 2444\nTeléfono Local:\n(921) 211 4300 ext. 2444\nTeléfono Directo:\n(921) 143 00",
+            "celular": "Celular: 92 1254 2407"
+        },
+        {
+            "id_sitio": 512,
+            "estado": "Veracruz",
+            "ciudad": "Cordoba",
+            "direccion": "AV. 3, N° 1309, ESQUINA CALLE 13, COL. CENTRO, C.P. 94500, CORDOBA, VERACRUZ.",
+            "ing_cjf": "Agustín Julio Díaz",
+            "correo": "agustin.julio.diaz@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #502 ext. 1001\nTeléfono Local: (782) 824 9954 ext. 1000\nTeléfono Directo: (782) 824 9954",
+            "celular": "Celular: 78 2149 4263"
+        },
+        {
+            "id_sitio": 516,
+            "estado": "Coahuila",
+            "ciudad": "Torreón",
+            "direccion": "BLVD. DE LOS GRANDES PINTORES NO. 1705-A, ENTRE ciudad DIF Y POLIDEPORTIVO LA PAZ, BOSQUE URBANO, TORREÓN, COAHUILA. C.P. 27058.",
+            "ing_cjf": "Juan Gumersindo Luna Vargas",
+            "correo": "juan.luna.vargas@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #520 ext. 1039\nTeléfono Local:\n(871) 299 0500 ext. 1039",
+            "celular": "Celular: 87 1347 1393"
+        },
+        {
+            "id_sitio": 520,
+            "estado": "Coahuila",
+            "ciudad": "Torreón",
+            "direccion": "BLVD. INDEPENDENCIA NO. 2111 OTE., COLONIA SAN ISIDRO, TORREÓN, COAHUILA, C.P. 27100.",
+            "ing_cjf": "Juan Gumersindo Luna Vargas",
+            "correo": "juan.luna.vargas@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #520 ext. 1039\nTeléfono Local:\n(871) 299 0500 ext. 1039",
+            "celular": "Celular: 87 1347 1393"
+        },
+        {
+            "id_sitio": 522,
+            "estado": "Coahuila",
+            "ciudad": "Torreón",
+            "direccion": "BOULEVARD INDEPENDENCIA NO. 3438, COL. RESIDENCIAL EL FRESNO, TORREÓN, COAHUILA.",
+            "ing_cjf": "Juan Gumersindo Luna Vargas",
+            "correo": "juan.luna.vargas@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #520 ext. 1039\nTeléfono Local:\n(871) 299 0500 ext. 1039",
+            "celular": "Celular: 87 1347 1393"
+        },
+        {
+            "id_sitio": 524,
+            "estado": "Coahuila",
+            "ciudad": "Torreón",
+            "direccion": "AV. BENITO JUÁREZ PONIENTE, ENTRE LAS CALLES RAMÓN CORONA Y HERMENEGILDO GALEANA, COL. CENTRO, C.P. 27000, TORREÓN, COAH. ",
+            "ing_cjf": "Juan Gumersindo Luna Vargas",
+            "correo": "juan.luna.vargas@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #520 ext. 1039\nTeléfono Local:\n(871) 299 0500 ext. 1039",
+            "celular": "Celular: 87 1347 1393"
+        },
+        {
+            "id_sitio": 526,
+            "estado": "Coahuila",
+            "ciudad": "Torreón",
+            "direccion": "CALZADA CRISTÓBAL COLÓN NO. 380 Y 392, ESQUINA AV. NICOLÁS BRAVO, COL. CENTRO, C.P. 27000, TORREÓN, COAHUILA.",
+            "ing_cjf": "Juan Gumersindo Luna Vargas",
+            "correo": "juan.luna.vargas@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #520 ext. 1039\nTeléfono Local:\n(871) 299 0500 ext. 1039",
+            "celular": "Celular: 87 1347 1393"
+        },
+        {
+            "id_sitio": 528,
+            "estado": "Coahuila",
+            "ciudad": "Saltillo",
+            "direccion": "BOULEVARD NAZARIO ORTIZ GARZA NO. 910, COL. SALTILLO 400, SALTILLO, COAHUILA, C.P. 25290.",
+            "ing_cjf": "Francisco Ignacio Chavez Macias",
+            "correo": "francisco.chavez.macias@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#528 ext. 3212\nTeléfono Local:\n(844) 438 4900 ext. 3212\nTeléfono Directo:\n(844) 438 4912",
+            "celular": "Celular: 84 4442 1615"
+        },
+        {
+            "id_sitio": 532,
+            "estado": "Coahuila",
+            "ciudad": "Piedras Negras",
+            "direccion": "CALLE RIO LERMA NO. 2610, NUEVA AMERICANA, PIEDRAS NEGRAS, COAH., C.P. 26070.",
+            "ing_cjf": "Francisco Ignacio Chavez Macias",
+            "correo": "francisco.chavez.macias@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#528 ext. 3212\nTeléfono Local:\n(844) 438 4900 ext. 3212\nTeléfono Directo:\n(844) 438 4912",
+            "celular": "Celular: 84 4442 1615"
+        },
+        {
+            "id_sitio": 536,
+            "estado": "Coahuila",
+            "ciudad": "Monclova",
+            "direccion": "BLVD. BENITO JUÁREZ NO. 601, 2 PISO, PALMA, MONCLOVA, C.P. 25730. ",
+            "ing_cjf": "Juan Gumersindo Luna Vargas",
+            "correo": "juan.luna.vargas@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #520 ext. 1039\nTeléfono Local:\n(871) 299 0500 ext. 1039",
+            "celular": "Celular: 87 1347 1393"
+        },
+        {
+            "id_sitio": 538,
+            "estado": "San Luís Potosí",
+            "ciudad": "San Luís Potosí",
+            "direccion": "CALLE PALMIRA S\/N FRENTE PRINCIPAL Y DERECHO DE VIA, C.F.E. FRACCIONAMIENTO DESARROLLO DEL PEDREGAL, SAN LUIS POTOSÍ, S.L.P.",
+            "ing_cjf": "Raúl Eduardo Mota Herrera",
+            "correo": "raul.mota.herrera@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #538 ext. 1530\nTeléfono Local: (444) 838 9300 ext. 1530\nTeléfono Directo:\n(444) 838 9300",
+            "celular": "Celular: 44 4111 4851"
+        },
+        {
+            "id_sitio": 542,
+            "estado": "San Luís Potosí",
+            "ciudad": "San Luís Potosí",
+            "direccion": "AV. MUÑOZ NO. 650, MATEHUALA, SAN LUIS POTOSÍ, S.L.P., C.P. 78170.",
+            "ing_cjf": "Raúl Eduardo Mota Herrera",
+            "correo": "raul.mota.herrera@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #538 ext. 1530\nTeléfono Local: (444) 838 9300 ext. 1530\nTeléfono Directo:\n(444) 838 9300",
+            "celular": "Celular: 44 4111 4851"
+        },
+        {
+            "id_sitio": 550,
+            "estado": "San Luís Potosí",
+            "ciudad": "Cd. Valles",
+            "direccion": "ABASOLO NO. 414 - 2DO PISO, COL. CENTRO, C.P. 79000, ciudad VALLES, S.L.P.",
+            "ing_cjf": "Raúl Eduardo Mota Herrera",
+            "correo": "raul.mota.herrera@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #538 ext. 1530\nTeléfono Local: (444) 838 9300 ext. 1530\nTeléfono Directo:\n(444) 838 9300",
+            "celular": "Celular: 44 4111 4851"
+        },
+        {
+            "id_sitio": 557,
+            "estado": "Tabasco",
+            "ciudad": "villahermosa",
+            "direccion": "CARLOS PELLICER CAMARA NO. 3302, COLONIA CARRIZAL, TABASCO 2000, C.P. 86108, VILLAHERMOSA, TABASCO.",
+            "ing_cjf": "José Gustavo Garrido Penagos",
+            "correo": "jose.garrido.penagos@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #560 ext. 2124\nTeléfono Local: (993) 310 5000 ext. 2124\nTeléfono Directo:\n(993) 310 5043",
+            "celular": "Celular: 99 3133 4673"
+        },
+        {
+            "id_sitio": 559,
+            "estado": "Tabasco",
+            "ciudad": "Villahermosa",
+            "direccion": "PASEO USUMACINTA, NÚMERO 1122, COMPLEJO URBANÍSTICO, TABASCO 2000, VILLAHERMOSA TABASCO",
+            "ing_cjf": "José Gustavo Garrido Penagos",
+            "correo": "jose.garrido.penagos@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #560 ext. 2124\nTeléfono Local: (993) 310 5000 ext. 2124\nTeléfono Directo:\n(993) 310 5043",
+            "celular": "Celular: 99 3133 4673"
+        },
+        {
+            "id_sitio": 560,
+            "estado": "Tabasco",
+            "ciudad": "Villahermosa",
+            "direccion": "AV. MALECÓN LEANDRO ROVIROSA WADE S\/N, ESQ. JUAN JOVITO PÉREZ, COL. LAS GAVIOTAS, C.P. 86090, VILLAHERMOSA, TABASCO.",
+            "ing_cjf": "José Gustavo Garrido Penagos",
+            "correo": "jose.garrido.penagos@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #560 ext. 2124\nTeléfono Local: (993) 310 5000 ext. 2124\nTeléfono Directo:\n(993) 310 5043",
+            "celular": "Celular: 99 3133 4673"
+        },
+        {
+            "id_sitio": 561,
+            "estado": "Tabasco",
+            "ciudad": "Villahermosa",
+            "direccion": " AV. ADOLFO RUIZ CORTINEZ NO. 917, CASI ESQUINA CON AV. PAGES LLERGO COL. CENTRO, VILLAERMOSA, TABASCO.",
+            "ing_cjf": "José Gustavo Garrido Penagos",
+            "correo": "jose.garrido.penagos@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #560 ext. 2124\nTeléfono Local: (993) 310 5000 ext. 2124\nTeléfono Directo:\n(993) 310 5043",
+            "celular": "Celular: 99 3133 4673"
+        },
+        {
+            "id_sitio": 562,
+            "estado": "Tabasco",
+            "ciudad": "Villahermosa",
+            "direccion": "CALLE REFORMA NO. 100 ESQUINA CON LA AVENIDA GREGORIO MÉNDEZ MAGAÑA, COL. ATASTA DE SERRA, VILLAHERMOSA, TABASCO., C.P. 86100.",
+            "ing_cjf": "José Gustavo Garrido Penagos",
+            "correo": "jose.garrido.penagos@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #560 ext. 2124\nTeléfono Local: (993) 310 5000 ext. 2124\nTeléfono Directo:\n(993) 310 5043",
+            "celular": "Celular: 99 3133 4673"
+        },
+        {
+            "id_sitio": 563,
+            "estado": "Tabasco",
+            "ciudad": "Villahermosa",
+            "direccion": "AV. GREGORIO MÉNDEZ MAGAÑA NO. 2637, COL. ATASTA DE SERRA, C.P. 86100, VILLAHERMOSA, TABASCO.",
+            "ing_cjf": "José Gustavo Garrido Penagos",
+            "correo": "jose.garrido.penagos@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #560 ext. 2124\nTeléfono Local: (993) 310 5000 ext. 2124\nTeléfono Directo:\n(993) 310 5043",
+            "celular": "Celular: 99 3133 4673"
+        },
+        {
+            "id_sitio": 565,
+            "estado": "Tabasco",
+            "ciudad": "Villahermosa",
+            "direccion": "CARRETERA A MACUSPANA KM 17, C.P. 86280, VILLAHERMOSA, TABASCO.",
+            "ing_cjf": "José Gustavo Garrido Penagos",
+            "correo": "jose.garrido.penagos@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #560 ext. 2124\nTeléfono Local: (993) 310 5000 ext. 2124\nTeléfono Directo:\n(993) 310 5043",
+            "celular": "Celular: 99 3133 4673"
+        },
+        {
+            "id_sitio": 566,
+            "estado": "Michoacán",
+            "ciudad": "Morelia",
+            "direccion": "AV. CAMELINAS NO. 2150, COL. BOSQUE CAMELINAS, C.P. 58290, MORELIA, MICHOACÁN.",
+            "ing_cjf": "Nicolas Eduardo Castro Reyes",
+            "correo": "nicolas.castro.reyes@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #570 ext. 1037\nTeléfono Local: (443) 322 6960 ext. 1035\nTeléfono Directo: (443) 322 6960",
+            "celular": "Celular: 44 3207 0038"
+        },
+        {
+            "id_sitio": 568,
+            "estado": "Michoacán",
+            "ciudad": "Morelia",
+            "direccion": "CALLE MARINA NACIONAL NO. 36, CINCO DE DICIEMBRE, C.P. 58270, MORELIA, MICHOACÁN.",
+            "ing_cjf": "Nicolas Eduardo Castro Reyes",
+            "correo": "nicolas.castro.reyes@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #570 ext. 1037\nTeléfono Local: (443) 322 6960 ext. 1035\nTeléfono Directo: (443) 322 6960",
+            "celular": "Celular: 44 3207 0038"
+        },
+        {
+            "id_sitio": 570,
+            "estado": "Michoacán",
+            "ciudad": "Morelia",
+            "direccion": "AV. CAMELINAS NO. 3550, PLANTA BAJA, COL. CLUB CAMPESTRE, C.P. 58270, MORELIA, MICHOACÁN.",
+            "ing_cjf": "Nicolas Eduardo Castro Reyes",
+            "correo": "nicolas.castro.reyes@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #570 ext. 1037\nTeléfono Local: (443) 322 6960 ext. 1035\nTeléfono Directo: (443) 322 6960",
+            "celular": "Celular: 44 3207 0038"
+        },
+        {
+            "id_sitio": 572,
+            "estado": "Michoacán",
+            "ciudad": "Morelia",
+            "direccion": "CALLE LACAS DE URUAPAN NO 31, COLONIA VASCO DE QUIROGA, MORELIA, MICH., C.P. 58000.",
+            "ing_cjf": "Nicolas Eduardo Castro Reyes",
+            "correo": "nicolas.castro.reyes@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #570 ext. 1037\nTeléfono Local: (443) 322 6960 ext. 1035\nTeléfono Directo: (443) 322 6960",
+            "celular": "Celular: 44 3207 0038"
+        },
+        {
+            "id_sitio": 574,
+            "estado": "Michoacán",
+            "ciudad": "Morelia",
+            "direccion": "PERIFERICO PASEO DE LA REPUBLICA No. 524, COL. RESIDENCIAL BOSQUES, MORELIA, MICHOACAN, C. P. 58099",
+            "ing_cjf": "Nicolas Eduardo Castro Reyes",
+            "correo": "nicolas.castro.reyes@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #570 ext. 1037\nTeléfono Local: (443) 322 6960 ext. 1035\nTeléfono Directo: (443) 322 6960",
+            "celular": "Celular: 44 3207 0038"
+        },
+        {
+            "id_sitio": 576,
+            "estado": "Michoacán",
+            "ciudad": "Uruapan",
+            "direccion": "CARRETERA URUAPAN-PÁTZCUARO NO. 1380, COL. FRACC. LOMAS DEL VALLE, URUAPAN, MICH., C.P. 60110.",
+            "ing_cjf": "Jessica Tzitlali Camarena García",
+            "correo": "jessica.camarena.garcía@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #576 ext. 1010\nTeléfono Local: (452) 528 2360 ext. 1\nTeléfono Directo: (452) 528 2360",
+            "celular": "Celular: 44 3264 3310"
+        },
+        {
+            "id_sitio": 580,
+            "estado": "Sinaloa",
+            "ciudad": "Mazatlán",
+            "direccion": "AV. OLAS ALTAS NO. 1300, TORRE PRINCIPAL, COL. CENTRO, C.P. 82000, MAZATLÁN, SINALOA.",
+            "ing_cjf": "Julio Alonso Crespo Aguilar",
+            "correo": "julio.crespo.aguilar@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #580 ext. 1567\nTeléfono Local: (669) 915 6200 ext. 1567\nTeléfono Directo: (669) 915 6222",
+            "celular": "Celular: 66 9912 8971"
+        },
+        {
+            "id_sitio": 586,
+            "estado": "Sinaloa",
+            "ciudad": "Mazatlán",
+            "direccion": "RÍO BALUARTE NO. 1000, PRIMER PISO, FRACC. TELLERÍA, C.P. 82017, MAZATLÁN, SINALOA.",
+            "ing_cjf": "Julio Alonso Crespo Aguilar",
+            "correo": "julio.crespo.aguilar@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #580 ext. 1567\nTeléfono Local: (669) 915 6200 ext. 1567\nTeléfono Directo: (669) 915 6222",
+            "celular": "Celular: 66 9912 8971"
+        },
+        {
+            "id_sitio": 590,
+            "estado": "Sinaloa",
+            "ciudad": "Mazatlán",
+            "direccion": "RÍO QUELITE NO. 27, COL. FRACC. TELLERÍA, C.P. 82017, MAZATLÁN, SINALOA.",
+            "ing_cjf": "Julio Alonso Crespo Aguilar",
+            "correo": "julio.crespo.aguilar@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #580 ext. 1567\nTeléfono Local: (669) 915 6200 ext. 1567\nTeléfono Directo: (669) 915 6222",
+            "celular": "Celular: 66 9912 8971"
+        },
+        {
+            "id_sitio": 592,
+            "estado": "Sinaloa",
+            "ciudad": "Mazatlán",
+            "direccion": "CALLE RÍO BALUARTE NO. 1220, FRACC. TELLERÍA, C.P. 82017, MAZATLÁN, SINALOA.",
+            "ing_cjf": "Julio Alonso Crespo Aguilar",
+            "correo": "julio.crespo.aguilar@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #580 ext. 1567\nTeléfono Local: (669) 915 6200 ext. 1567\nTeléfono Directo: (669) 915 6222",
+            "celular": "Celular: 66 9912 8971"
+        },
+        {
+            "id_sitio": 594,
+            "estado": "Sinaloa",
+            "ciudad": "Mazatlán",
+            "direccion": "RÍO QUELITE NO. 31, FRACC. TELLERÍA, C.P. 82017, MAZATLÁN, SINALOA.",
+            "ing_cjf": "Julio Alonso Crespo Aguilar",
+            "correo": "julio.crespo.aguilar@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #580 ext. 1567\nTeléfono Local: (669) 915 6200 ext. 1567\nTeléfono Directo: (669) 915 6222",
+            "celular": "Celular: 66 9912 8971"
+        },
+        {
+            "id_sitio": 600,
+            "estado": "Sinaloa",
+            "ciudad": "Culiacán",
+            "direccion": "CARRETERA A NAVOLATO NO. 10321, SINDICATURA DE AGUARUTO, C.P. 80308, CULIACÁN, SINALOA.",
+            "ing_cjf": "Fernando Sael Castro Lizarraga ",
+            "correo": "fernando.castro.lizarraga@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #600 ext. 1432\nTeléfono Local: (667) 784 6570 ext. 1432",
+            "celular": "Celular: 66 7202 9776"
+        },
+        {
+            "id_sitio": 602,
+            "estado": "Sinaloa",
+            "ciudad": "Culiacán",
+            "direccion": "CALLE CIRCUITO INTERIOR NO. 347 SUR, COLONIA CENTRO, SINDICATURA DE AGUARUTO, C.P. 80308, CULIACÁN, SINALOA..",
+            "ing_cjf": "Fernando Sael Castro Lizarraga ",
+            "correo": "fernando.castro.lizarraga@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #600 ext. 1432\nTeléfono Local: (667) 784 6570 ext. 1432",
+            "celular": "Celular: 66 7202 9776"
+        },
+        {
+            "id_sitio": 608,
+            "estado": "Sinaloa",
+            "ciudad": "Los Mochis",
+            "direccion": "MIGUEL HIDALGO Y VICENTE GUERRERO S\/N, COL. CENTRO, C.P. 81200, LOS MOCHIS, SINALOA.",
+            "ing_cjf": "Jesús Benjamín Quintero Palacios",
+            "correo": "jesus.quintero.palacios@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #612 ext. 1142\nTeléfono Directo: (66) 812 4843",
+            "celular": "Celular: 66 8856 0044"
+        },
+        {
+            "id_sitio": 612,
+            "estado": "Sinaloa",
+            "ciudad": "Los Mochis",
+            "direccion": "BLVD. ADOLFO LÓPEZ MATEOS NO. 2213 NORTE, FRACC. LAS FUENTES, C.P. 81223, LOS MOCHIS, SINALOA.",
+            "ing_cjf": "Jesús Benjamín Quintero Palacios",
+            "correo": "jesus.quintero.palacios@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #612 ext. 1142\nTeléfono Directo: (66) 812 4843",
+            "celular": "Celular: 66 8856 0044"
+        },
+        {
+            "id_sitio": 620,
+            "estado": "Oaxaca",
+            "ciudad": "Oaxaca",
+            "direccion": "AV. JUÁREZ NÚMERO 709, COL. CENTRO OAXACA, OAX. C.P. 68000.",
+            "ing_cjf": "Jorge Antonio Nuñez Martínez",
+            "correo": "jorge.nunez.martinez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #634 ext. 9000",
+            "celular": "Celular: 22 2491 3929"
+        },
+        {
+            "id_sitio": 627,
+            "estado": "Oaxaca",
+            "ciudad": "Oaxaca",
+            "direccion": "AV. INDEPENDENCIA NO. 1608, COLONIA CENTRO, C.P. 68000, EN OAXACA DE JUÁREZ, OAXACA.",
+            "ing_cjf": "Jorge Antonio Nuñez Martínez",
+            "correo": "jorge.nunez.martinez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #634 ext. 9000",
+            "celular": "Celular: 22 2491 3929"
+        },
+        {
+            "id_sitio": 634,
+            "estado": "Oaxaca",
+            "ciudad": "San Bartolo",
+            "direccion": "PRIVADA DE ALDAMA NO. 106, COLONIA PARAJE \"EL TULE\", C.P. 71256, SAN BARTOLO COYOTEPEC, OAXACA.",
+            "ing_cjf": "Jorge Antonio Nuñez Martínez",
+            "correo": "jorge.nunez.martinez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #634 ext. 9000",
+            "celular": "Celular: 22 2491 3929"
+        },
+        {
+            "id_sitio": 636,
+            "estado": "Oaxaca",
+            "ciudad": "Salina Cruz",
+            "direccion": "AV. TAMPICO NÚM. 106, COLONIA CENTRO, SALINA CRUZ, OAXACA, C.P. 70600.",
+            "ing_cjf": "Jorge Antonio Nuñez Martínez\/ Luis Ignacio Bautista Ruiz",
+            "correo": "jorge.nunez.martinez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #634 ext. 9000",
+            "celular": "Celular: 22 2491 3929"
+        },
+        {
+            "id_sitio": 640,
+            "estado": "Campeche",
+            "ciudad": "Campeche",
+            "direccion": "AV. PATRICIO TRUEBA NO. 245, COL. SAN RAFAEL, C.P. 24090, SAN FRANCISCO DE CAMPECHE, CAMPECHE.",
+            "ing_cjf": "Victor Hassaf Haw Argáez",
+            "correo": "victor.haw.argaez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #644 ext. 1166\nTeléfono Local: (981) 127 3800 ext. 1166\nTeléfono Directo: (981) 811 6688",
+            "celular": "Celular: 98 1113 4641"
+        },
+        {
+            "id_sitio": 644,
+            "estado": "Campeche",
+            "ciudad": "Campeche",
+            "direccion": "AV. ADOLFO LÓPEZ MATEOS NO. 408, COL. BOSQUES DE CAMPECHE, C.P. 24030, SAN FRANCISCO DE CAMPECHE, CAMPECHE.",
+            "ing_cjf": "Victor Hassaf Haw Argáez",
+            "correo": "victor.haw.argaez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #644 ext. 1166\nTeléfono Local: (981) 127 3800 ext. 1166\nTeléfono Directo: (981) 811 6688",
+            "celular": "Celular: 98 1113 4641"
+        },
+        {
+            "id_sitio": 647,
+            "estado": "Campeche",
+            "ciudad": "Campeche",
+            "direccion": "LOTE 5 Y 6 MANZANA G ZONA TURÍSTICA, SECCIÓN FUNDADORES, ÁREA HA-KIM-PECH, MALECÓN DE CAMPECHE, CAMPECHE",
+            "ing_cjf": "Victor Hassaf Haw Argáez",
+            "correo": "victor.haw.argaez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #644 ext. 1166\nTeléfono Local: (981) 127 3800 ext. 1166\nTeléfono Directo: (981) 811 6688",
+            "celular": "Celular: 98 1113 4641"
+        },
+        {
+            "id_sitio": 648,
+            "estado": "Campeche",
+            "ciudad": "Campeche",
+            "direccion": "SEGUNDO NIVEL DE EDIFICIO UBICADO EN CALLE CABALLITO DEL MAR, ENTRE CALLE 52 Y AV. LOS PINOS 50 LOTE 12 B, COL PLAYA NORTE,  EN CD DEL CARMEN CAMPECHE",
+            "ing_cjf": "Victor Hassaf Haw Argáez",
+            "correo": "victor.haw.argaez@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #644 ext. 1166\nTeléfono Local: (981) 127 3800 ext. 1166\nTeléfono Directo: (981) 811 6688",
+            "celular": "Celular: 98 1113 4641"
+        },
+        {
+            "id_sitio": 650,
+            "estado": "Yucatán",
+            "ciudad": "Mérida",
+            "direccion": "CALLE DEL HOSPITAL NÚM. 594, 2DO PISO, ZONA INDUSTRIAL, CENTRO CÍVICO, MEXICALI, B. C., C.P. 21000. ",
+            "ing_cjf": "Alejandro Montes Aguilar",
+            "correo": "alejandro.montes.aguilar@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #650 ext. 1072\nTeléfono Local: (999) 942 0800 ext. 1072\nTeléfono Directo: (999) 942 0816",
+            "celular": "Celular: 99 9970 1733"
+        },
+        {
+            "id_sitio": 651,
+            "estado": "Yucatán",
+            "ciudad": "Mérida",
+            "direccion": "EDIFICIO ITZAES. CALLE 86B NO. 597-A POR 79 Y 79-A, COL. SAMBULÁ, C.P. 97125, MÉRIDA, YUCATÁN.",
+            "ing_cjf": "Alejandro Montes Aguilar",
+            "correo": "alejandro.montes.aguilar@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #650 ext. 1072\nTeléfono Local: (999) 942 0800 ext. 1072\nTeléfono Directo: (999) 942 0816",
+            "celular": "Celular: 99 9970 1733"
+        },
+        {
+            "id_sitio": 652,
+            "estado": "Yucatán",
+            "ciudad": "Mérida",
+            "direccion": "CALLE 86B NUM. 595-B Y 597-A, COL. SAMBULÁ, MÉRIDA, YUCATÁN, C.P. 971250.",
+            "ing_cjf": "Alejandro Montes Aguilar",
+            "correo": "alejandro.montes.aguilar@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #650 ext. 1072\nTeléfono Local: (999) 942 0800 ext. 1072\nTeléfono Directo: (999) 942 0816",
+            "celular": "Celular: 99 9970 1733"
+        },
+        {
+            "id_sitio": 654,
+            "estado": "Yucatán",
+            "ciudad": "Mérida",
+            "direccion": "CALLE 60 NO. 401, MANZANA 236, CUARTEL 21, COL. SAN JOSE TECOH SUR, EN MERIDA, YUCATÁN.",
+            "ing_cjf": "Alejandro Montes Aguilar",
+            "correo": "alejandro.montes.aguilar@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #650 ext. 1072\nTeléfono Local: (999) 942 0800 ext. 1072\nTeléfono Directo: (999) 942 0816",
+            "celular": "Celular: 99 9970 1733"
+        },
+        {
+            "id_sitio": 660,
+            "estado": "Baja California",
+            "ciudad": "Mexicali",
+            "direccion": "CALLE DEL HOSPITAL NO. 594, ZONA INDUSTRIAL, CENTRO CÍVICO, C.P. 21000, MEXICALI, B. C.",
+            "ing_cjf": "Ivan Del Toro Escamilla",
+            "correo": "ivan.deltoro.escamilla@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #660 ext. 1178\nTeléfono Local: (686) 559 8100 ext. 1178\nTeléfono Directo: (686) 559 8103",
+            "celular": "Celular: 68 6231 1894"
+        },
+        {
+            "id_sitio": 662,
+            "estado": "Baja California",
+            "ciudad": "Mexicali",
+            "direccion": "CALLE DE LA LIBERTAD NO. 990 Y 980, ZONA INDUSTRIAL, CENTRO CÍVICO Y COMERCIAL, CP. 21000, MEXICALI, B.C.",
+            "ing_cjf": "Ivan Del Toro Escamilla",
+            "correo": "ivan.deltoro.escamilla@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #660 ext. 1178\nTeléfono Local: (686) 559 8100 ext. 1178\nTeléfono Directo: (686) 559 8103",
+            "celular": "Celular: 68 6231 1894"
+        },
+        {
+            "id_sitio": 664,
+            "estado": "Baja California",
+            "ciudad": "Mexicali",
+            "direccion": "AV. FRANCISCO L. MONTEJANO NO. 1342, FRACC. FOVISSSTE “TORRES DEL SOL”, C.P. 21038, MEXICALI, B.C.",
+            "ing_cjf": "Ivan Del Toro Escamilla",
+            "correo": "ivan.deltoro.escamilla@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #660 ext. 1178\nTeléfono Local: (686) 559 8100 ext. 1178\nTeléfono Directo: (686) 559 8103",
+            "celular": "Celular: 68 6231 1894"
+        },
+        {
+            "id_sitio": 666,
+            "estado": "Baja California",
+            "ciudad": "Mexicali",
+            "direccion": "CALZADA DE LOS PRESIDENTES S\/N (ANTIGUO CAUCE DEL RÍO NUEVO), ESQ. PUENTE QUINTANA ROO. POLÍGONOS: 8-3 FRACCIÓN NORTE PORCIÓN 2, Y 8-3 FRACCIÓN CENTRAL, C.P. 21120, MEXICALI, B. C.",
+            "ing_cjf": "Ivan Del Toro Escamilla",
+            "correo": "ivan.deltoro.escamilla@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #660 ext. 1178\nTeléfono Local: (686) 559 8100 ext. 1178\nTeléfono Directo: (686) 559 8103",
+            "celular": "Celular: 68 6231 1894"
+        },
+        {
+            "id_sitio": 670,
+            "estado": "Baja California",
+            "ciudad": "Tijuana",
+            "direccion": "AV. PASEO DE LOS HÉROES NO. 10540 4TO.PISO, ZONA RÍO, C.P. 22010, TIJUANA, B.C.",
+            "ing_cjf": "Magali Rodríguez Correa",
+            "correo": "magali.rodriguez.correa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#678 ext. 1080",
+            "celular": "Celular: 66 4201 8418"
+        },
+        {
+            "id_sitio": 672,
+            "estado": "Baja California",
+            "ciudad": "Tijuana",
+            "direccion": "LEONA VICARIO ESQUINA CON VÍA RÁPIDA PONIENTE NO. 1426, ZONA RÍO, C.P. 22010, TIJUANA, B. C.",
+            "ing_cjf": "Magali Rodríguez Correa",
+            "correo": "magali.rodriguez.correa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#678 ext. 1080",
+            "celular": "Celular: 66 4201 8418"
+        },
+        {
+            "id_sitio": 674,
+            "estado": "Baja California",
+            "ciudad": "Tijuana",
+            "direccion": "AV. PASEO DE LOS HÉROES NO. 10105 9VO. PISO, ZONA RÍO, C.P. 22010, TIJUANA, B.C.",
+            "ing_cjf": "Magali Rodríguez Correa",
+            "correo": "magali.rodriguez.correa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#678 ext. 1080",
+            "celular": "Celular: 66 4201 8418"
+        },
+        {
+            "id_sitio": 676,
+            "estado": "Baja California",
+            "ciudad": "Tijuana",
+            "direccion": "PASEO DE LOS HÉROES NO. 10093, ESQ. JOSÉ CLEMENTE OROZCO, LOCAL 9, ZONA RÍO, C.P. 22010, TIJUANA, B.C.",
+            "ing_cjf": "Magali Rodríguez Correa",
+            "correo": "magali.rodriguez.correa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#678 ext. 1080",
+            "celular": "Celular: 66 4201 8418"
+        },
+        {
+            "id_sitio": 677,
+            "estado": "BAja California",
+            "ciudad": "Tijuana",
+            "direccion": "AV. MANUEL DOBLADO NO. 2721, COLONIA CALETTE, C.P. 22044, EN TIJUANA, BAJA CALIFORNIA",
+            "ing_cjf": "Magali Rodríguez Correa",
+            "correo": "magali.rodriguez.correa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#678 ext. 1080",
+            "celular": "Celular: 66 4201 8418"
+        },
+        {
+            "id_sitio": 678,
+            "estado": "Baja California",
+            "ciudad": "Tijuana",
+            "direccion": "DR. ATL, NO. 2084, ZONA RÍO, C.P. 22010, TIJUANA, B. C.",
+            "ing_cjf": "Magali Rodríguez Correa",
+            "correo": "magali.rodriguez.correa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#678 ext. 1080",
+            "celular": "Celular: 66 4201 8418"
+        },
+        {
+            "id_sitio": 679,
+            "estado": "Baja California",
+            "ciudad": "Tijuana",
+            "direccion": "DR. ATL, NO. 2280, ZONA RÍO, C.P. 22010, TIJUANA, B. C.",
+            "ing_cjf": "Magali Rodríguez Correa",
+            "correo": "magali.rodriguez.correa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#678 ext. 1080",
+            "celular": "Celular: 66 4201 8418"
+        },
+        {
+            "id_sitio": 680,
+            "estado": "Baja California",
+            "ciudad": "Ensenada",
+            "direccion": "AV. ÁLVARO OBREGÓN NO. 389 CON ESQ. CALLE CUARTA, CENTRO, C.P. 22800, ENSENADA, B.C.",
+            "ing_cjf": "Magali Rodríguez Correa",
+            "correo": "magali.rodriguez.correa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#678 ext. 1080",
+            "celular": "Celular: 66 4201 8418"
+        },
+        {
+            "id_sitio": 681,
+            "estado": "Baja California",
+            "ciudad": "Ensenada",
+            "direccion": "AV. RYERSON NO. 321, ESQUINA CON CALLE TERCERA, LOTE 1, MANZANA 37, SECCIÓN 1A, ZONA CENTRO, C.P. 22800, ENSENADA, BAJA CALIFORNIA.",
+            "ing_cjf": "Magali Rodríguez Correa",
+            "correo": "magali.rodriguez.correa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#678 ext. 1080",
+            "celular": "Celular: 66 4201 8418"
+        },
+        {
+            "id_sitio": 682,
+            "estado": "Baja California",
+            "ciudad": "Ensenada",
+            "direccion": "CALLE CUARTA NO. 450, ENTRE AV. RUIZ Y GASTELUM, COL. CENTRO, C.P. 22800, ENSENADA, B.C.",
+            "ing_cjf": "Magali Rodríguez Correa",
+            "correo": "magali.rodriguez.correa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#678 ext. 1080",
+            "celular": "Celular: 66 4201 8418"
+        },
+        {
+            "id_sitio": 684,
+            "estado": "Baja California",
+            "ciudad": "Ensenada",
+            "direccion": "AV. PEDRO LOYOLA NO. 314 ESQ. CON CALLE DELANTE, COL. CARLOS PACHECO, C.P. 22880, ENSENADA, B.C.",
+            "ing_cjf": "Magali Rodríguez Correa",
+            "correo": "magali.rodriguez.correa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#678 ext. 1080",
+            "celular": "Celular: 66 4201 8418"
+        },
+        {
+            "id_sitio": 685,
+            "estado": "Baja California",
+            "ciudad": "Ensenada",
+            "direccion": "LOTE PARCELA 10 Z-1 P-A, FRACCIÓN B-1 SIN MANZANA, EN EL EX EJIDO CHAPULTEPEC, UBICADA SOBRE LA CALLE PROLONGACIÓN LIBRAMIENTO SUR, C.P. 22890, ENSENADA, B.C.",
+            "ing_cjf": "Magali Rodríguez Correa",
+            "correo": "magali.rodriguez.correa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#678 ext. 1080",
+            "celular": "Celular: 66 4201 8418"
+        },
+        {
+            "id_sitio": 686,
+            "estado": "Baja California",
+            "ciudad": "Ensenada",
+            "direccion": "CENTRO COMERCIAL VILLA MEXICANA, LOCALIZADO EN AV. ALVARADO NO. 143, ENTRE PRIMERA Y SEGUNDA, ZONA CENTRO, C.P.  22800, ENSENADA, B.C.",
+            "ing_cjf": "Magali Rodríguez Correa",
+            "correo": "magali.rodriguez.correa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:\n#678 ext. 1080",
+            "celular": "Celular: 66 4201 8418"
+        },
+        {
+            "id_sitio": 690,
+            "estado": "Guanajuato",
+            "ciudad": "Guanajuato",
+            "direccion": "CARRETERA CUATRO CARRILES GUANAJUATO-SILAO, GLORIETA SANTA FE NO. 5, EDIFICIO B, COL. YERBABUENA, GUANAJUATO, GTO., C.P. 36251.",
+            "ing_cjf": " Marco Antonio Quintanar Garcia",
+            "correo": "marco.quintanar.garcia@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #690 ext. 3203\nTeléfono Local: (473) 102 3200 ext. 3203",
+            "celular": "Celular: 44 3189 7561"
+        },
+        {
+            "id_sitio": 691,
+            "estado": "Guanajuato",
+            "ciudad": "Guanajuato",
+            "direccion": "CARRETERA CUATRO CARRILES GUANAJUATO-SILAO, GLORIETA SANTA FE NO. 5, COL. YERBABUENA, C.P. 36251, GUANAJUATO, GTO.",
+            "ing_cjf": " Marco Antonio Quintanar Garcia",
+            "correo": "marco.quintanar.garcia@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #690 ext. 3203\nTeléfono Local: (473) 102 3200 ext. 3203",
+            "celular": "Celular: 44 3189 7561"
+        },
+        {
+            "id_sitio": 692,
+            "estado": "Guanajuato",
+            "ciudad": "Guanajuato",
+            "direccion": "EMILIANO ZAPATA NO. 1 LOTE 7, MANZANA 2 BARRIO PASO DE PERULES, SERVIDOR AGRARIO, C.P. 36251, GUANAJUATO, GTO",
+            "ing_cjf": " Marco Antonio Quintanar Garcia",
+            "correo": "marco.quintanar.garcia@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #690 ext. 3203\nTeléfono Local: (473) 102 3200 ext. 3203",
+            "celular": "Celular: 44 3189 7561"
+        },
+        {
+            "id_sitio": 697,
+            "estado": "Guanajuato",
+            "ciudad": "Guanajuato",
+            "direccion": "CALLE EMILIANO ZAPATA NO. 2, LOTE 6, MANZANA 18, COL. SERVIDOR AGRARIO, C.P. 36250, GUANAJUATO, GUANAJUATO.",
+            "ing_cjf": " Marco Antonio Quintanar Garcia",
+            "correo": "marco.quintanar.garcia@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #690 ext. 3203\nTeléfono Local: (473) 102 3200 ext. 3203",
+            "celular": "Celular: 44 3189 7561"
+        },
+        {
+            "id_sitio": 702,
+            "estado": "Guanajuato",
+            "ciudad": "León",
+            "direccion": "CALLE TIERRA COLORADA NO. 117, COL. JARDINES DEL MORAL, LEÓN, GUANAJUATO.",
+            "ing_cjf": "Juan José Delgado Zamarripa",
+            "correo": "juan.delgado.zamarripa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #706 ext. 1003\nTeléfono Directo: (477) 713 8862",
+            "celular": "Celular: 47 3117 7533"
+        },
+        {
+            "id_sitio": 704,
+            "estado": "Guanajuato",
+            "ciudad": "León",
+            "direccion": "BOULEVARD ADOLFO LÓPEZ MATEOS 915, ORIENTE, COECILLO, LEÓN, GUANAJUATO, C.P. 37260.",
+            "ing_cjf": "Juan José Delgado Zamarripa",
+            "correo": "juan.delgado.zamarripa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #706 ext. 1003\nTeléfono Directo: (477) 713 8862",
+            "celular": "Celular: 47 3117 7533"
+        },
+        {
+            "id_sitio": 706,
+            "estado": "Guanajuato",
+            "ciudad": "León",
+            "direccion": "BLVD. ADOLFO LÓPEZ MATEOS NO. 1137 ORIENTE, COLONIA COECILLO, LEÓN, GUANAJUATO, C.P. 37260. ",
+            "ing_cjf": "Juan José Delgado Zamarripa",
+            "correo": "juan.delgado.zamarripa@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #706 ext. 1003\nTeléfono Directo: (477) 713 8862",
+            "celular": "Celular: 47 3117 7533"
+        },
+        {
+            "id_sitio": 708,
+            "estado": "Guanajuato",
+            "ciudad": "Celaya",
+            "direccion": "AV. QUETZALLI NO. 901- PB, COL. LOS ÁLAMOS, CELAYA, GTO., C.P. 38020.",
+            "ing_cjf": " Marco Antonio Quintanar Garcia",
+            "correo": "marco.quintanar.garcia@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #690 ext. 3203\nTeléfono Local: (473) 102 3200 ext. 3203",
+            "celular": "Celular: 44 3189 7561"
+        },
+        {
+            "id_sitio": 710,
+            "estado": "Guanajuato",
+            "ciudad": "Irapuato",
+            "direccion": "PROLONGACIÓN AVENIDA VICENTE GUERRERO NO. 3149, FRACC. LAS PLAZAS, IRAPUATO, C.P. 36620, GTO.",
+            "ing_cjf": " Marco Antonio Quintanar Garcia",
+            "correo": "marco.quintanar.garcia@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #690 ext. 3203\nTeléfono Local: (473) 102 3200 ext. 3203",
+            "celular": "Celular: 44 3189 7561"
+        },
+        {
+            "id_sitio": 720,
+            "estado": "Chihuahua",
+            "ciudad": "Chihuahua",
+            "direccion": "AV. MIRADOR NO. 6500, CAMPESTRE WASHINGTON, C.P. 31215, CHIHUAHUA, CHIHUAHUA.",
+            "ing_cjf": "Juan Carlos Pantoja Ocampo",
+            "correo": "juan.pantoja.ocampo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #720 ext. 1346\nTeléfono Local: (614) 180 2000 ext. 1346",
+            "celular": "Celular: 61 4139 0274"
+        },
+        {
+            "id_sitio": 722,
+            "estado": "Chihuahua",
+            "ciudad": "Chihuahua",
+            "direccion": "AVENIDA ZARCO NO. 2446, COL. ZARCO, C.P. 31020, CHIHUAHUA, CHIHUAHUA",
+            "ing_cjf": "Juan Carlos Pantoja Ocampo",
+            "correo": "juan.pantoja.ocampo@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #720 ext. 1346\nTeléfono Local: (614) 180 2000 ext. 1346",
+            "celular": "Celular: 61 4139 0274"
+        },
+        {
+            "id_sitio": 730,
+            "estado": "Chihuahua",
+            "ciudad": "Cd. Juárez",
+            "direccion": "AV. TECNOLÓGICO NO. 1670, COL.FUENTES DEL VALLE, C.P. 32500, CD. JUÁREZ, CHIHUAHUA.",
+            "ing_cjf": "Norma Rocío García Zaragoza",
+            "correo": "norma.garcia.zaragoza@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #730 ext. 1205\nTeléfono Local:\n(656) 227 2600 ext. 1205\nTeléfono Directo: (656) 227 2621",
+            "celular": "Celular: 65 6201 3659"
+        },
+        {
+            "id_sitio": 731,
+            "estado": "Chihuahua",
+            "ciudad": "Cd. Juárez",
+            "direccion": "AV. TECNOLÓGICO NO. 1518 Y 1670, COL. FUENTES DEL VALLE, C.P. 32500, CD. JUÁREZ, CHIHUAHUA.",
+            "ing_cjf": "Norma Rocío García Zaragoza",
+            "correo": "norma.garcia.zaragoza@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #730 ext. 1205\nTeléfono Local:\n(656) 227 2600 ext. 1205\nTeléfono Directo: (656) 227 2621",
+            "celular": "Celular: 65 6201 3659"
+        },
+        {
+            "id_sitio": 740,
+            "estado": "Morelos",
+            "ciudad": "Cuernavaca",
+            "direccion": "AV. GENERAL SALAZAR NO. 22, CENTRO, CUERNAVACA MOR. C.P. 62000.",
+            "ing_cjf": "Milton Carlos Hernández Corona",
+            "correo": "milton.hernandez.corona@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #750 ext. 1460\nTeléfono Local: (777) 100 8700 ext. 1460\nTeléfono Directo: (777) 101 8598",
+            "celular": "Celular: 77 7141 2982"
+        },
+        {
+            "id_sitio": 742,
+            "estado": "Morelos",
+            "ciudad": "Cuernavaca",
+            "direccion": "AV. CUAUHTÉMOC NO. 158, COL. CHAPULTEPEC, C.P. 62450, CUERNAVACA, MOR. ",
+            "ing_cjf": "Milton Carlos Hernández Corona",
+            "correo": "milton.hernandez.corona@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #750 ext. 1460\nTeléfono Local: (777) 100 8700 ext. 1460\nTeléfono Directo: (777) 101 8598",
+            "celular": "Celular: 77 7141 2982"
+        },
+        {
+            "id_sitio": 744,
+            "estado": "Morelos",
+            "ciudad": "Cuernavaca",
+            "direccion": "CALLE FRANCISCO LEYVA NO. 3, CENTRO, CUERNAVACA, MORELOS, C.P. 62000.",
+            "ing_cjf": "Milton Carlos Hernández Corona",
+            "correo": "milton.hernandez.corona@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #750 ext. 1460\nTeléfono Local: (777) 100 8700 ext. 1460\nTeléfono Directo: (777) 101 8598",
+            "celular": "Celular: 77 7141 2982"
+        },
+        {
+            "id_sitio": 747,
+            "estado": "Morelos",
+            "ciudad": "Cuernavaca",
+            "direccion": "CALLE TAMAULIPAS NO. 2, COLONIA CHAPULTEPEC, C.P. 62450, CUERNAVACA, MORELOS.",
+            "ing_cjf": "Milton Carlos Hernández Corona",
+            "correo": "milton.hernandez.corona@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #750 ext. 1460\nTeléfono Local: (777) 100 8700 ext. 1460\nTeléfono Directo: (777) 101 8598",
+            "celular": "Celular: 77 7141 2982"
+        },
+        {
+            "id_sitio": 750,
+            "estado": "Morelos",
+            "ciudad": "Cuernavaca",
+            "direccion": "BLVD. DEL LAGO NO. 103, VILLAS DEPORTIVAS, CUERNAVACA, MORELOS, C.P. 62370.",
+            "ing_cjf": "Milton Carlos Hernández Corona",
+            "correo": "milton.hernandez.corona@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #750 ext. 1460\nTeléfono Local: (777) 100 8700 ext. 1460\nTeléfono Directo: (777) 101 8598",
+            "celular": "Celular: 77 7141 2982"
+        },
+        {
+            "id_sitio": 752,
+            "estado": "Morelos",
+            "ciudad": "Cuernavaca",
+            "ing_cjf": "Milton Carlos Hernández Corona",
+            "correo": "milton.hernandez.corona@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #750 ext. 1460\nTeléfono Local: (777) 100 8700 ext. 1460\nTeléfono Directo: (777) 101 8598",
+            "celular": "Celular: 77 7141 2982"
+        },
+        {
+            "id_sitio": 760,
+            "estado": "Tamaulipas",
+            "ciudad": "Cd. Victoria",
+            "direccion": "BOULEVARD PRAXEDIS BALBOA NO. 1813, ENTRE CALLES MÁRTIRES DE RÍO BLANCO Y F. DE LA GARZA, COL. MIGUEL HIDALGO, ciudad VICTORIA, TAMAULIPAS, C.P. 87090.",
+            "ing_cjf": "Héctor Valdez Perales",
+            "correo": "hector.valdez.perales@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #760 ext. 1215\nTeléfono Local: (834) 318 3900 ext. 1215",
+            "celular": "Celular: 83 4300 1124"
+        },
+        {
+            "id_sitio": 762,
+            "estado": "Tamaulipas",
+            "ciudad": "Cd. Victoria",
+            "direccion": "BLVD. TAMAULIPAS NO. 1626, COL. PERIODISTAS, ciudad VICTORIA, TAMAULIPAS, C.P. 87040.",
+            "ing_cjf": "Héctor Valdez Perales",
+            "correo": "hector.valdez.perales@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #760 ext. 1215\nTeléfono Local: (834) 318 3900 ext. 1215",
+            "celular": "Celular: 83 4300 1124"
+        },
+        {
+            "id_sitio": 763,
+            "estado": "Tamaulipas",
+            "ciudad": 951,
+            "direccion": "BOULEVARD FIDEL VELÁZQUEZ NO. 1455, COL. ADOLFO LÓPEZ MATEOS, C.P. 87020, ciudad VICTORIA, TAMAULIPAS.",
+            "ing_cjf": "Héctor Valdez Perales",
+            "correo": "hector.valdez.perales@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #760 ext. 1215\nTeléfono Local: (834) 318 3900 ext. 1215",
+            "celular": "Celular: 83 4300 1124"
+        },
+        {
+            "id_sitio": 764,
+            "estado": "Tamaulipas",
+            "ciudad": "Reynosa",
+            "direccion": "CALLE FRANCISCO I. MADERO NO. 500, ESQUINA CON TERAN, ZONA CENTRO, C.P. 88500, REYNOSA, TAMAULIPAS.",
+            "ing_cjf": "Miguel Alberto Rojas Luna",
+            "correo": "miguel.rojas.luna@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #766 ext. 1111\nTeléfono Directo: (899) 924 2300",
+            "celular": "Celular: 89 9151 9907"
+        },
+        {
+            "id_sitio": 765,
+            "estado": "Tamaulipas",
+            "ciudad": "Reynosa",
+            "direccion": "SUITES 201 A LA 210, DEL SEGUNDO PISO DEL EDIFICIO IDENTIFICADO COMO 109°28’ PERIFÉRICO, UBICADO EN AV. DE LOS ENCINOS NO. 800, COL. LOMA REAL DE JARACHINA NORTE, C.P. 88730, REYNOSA, TAMAULIPAS.",
+            "ing_cjf": "Miguel Alberto Rojas Luna",
+            "correo": "miguel.rojas.luna@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #766 ext. 1111\nTeléfono Directo: (899) 924 2300",
+            "celular": "Celular: 89 9151 9907"
+        },
+        {
+            "id_sitio": 766,
+            "estado": "Tamaulipas",
+            "ciudad": "Reynosa",
+            "direccion": "DR. JOSÉ LUIS GONZALEZ NO.391, FRACC. ELECTRICISTAS, C.P. 88690, REYNOSA, TAMAULIPAS.",
+            "ing_cjf": "Miguel Alberto Rojas Luna",
+            "correo": "miguel.rojas.luna@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #766 ext. 1111\nTeléfono Directo: (899) 924 2300",
+            "celular": "Celular: 89 9151 9907"
+        },
+        {
+            "id_sitio": 770,
+            "estado": "Tamaulipas",
+            "ciudad": "Reynosa",
+            "direccion": "BLVD. MORELOS ESQUINA CON OCCIDENTAL NO. 2340, AMPLIACIÓN RODRÍGUEZ, C.P. 88630, REYNOSA, TAMAULIPAS.",
+            "ing_cjf": "Miguel Alberto Rojas Luna",
+            "correo": "miguel.rojas.luna@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #766 ext. 1111\nTeléfono Directo: (899) 924 2300",
+            "celular": "Celular: 89 9151 9907"
+        },
+        {
+            "id_sitio": 772,
+            "estado": "Tamaulipas",
+            "ciudad": "Reynosa",
+            "direccion": "CALLE ORIENTE 2 NO. 725, COL. AZTLÁN, C.P. 88740, REYNOSA, TAMAULIPAS.",
+            "ing_cjf": "Miguel Alberto Rojas Luna",
+            "correo": "miguel.rojas.luna@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #766 ext. 1111\nTeléfono Directo: (899) 924 2300",
+            "celular": "Celular: 89 9151 9907"
+        },
+        {
+            "id_sitio": 774,
+            "estado": "Tamaulipas",
+            "ciudad": "Matamoros",
+            "direccion": "EDIFICIO SEDE DEL PJF EN LA CD. DE MATAMOROS, AV. PEDRO CÁRDENAS NO. 2015, ESQUINA AV. LONGORIA, COL. FRACC. VICTORIA, C.P. 87390, MATAMOROS, TAMAULIPAS.",
+            "ing_cjf": "Héctor Valdez Perales",
+            "correo": "hector.valdez.perales@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #760 ext. 1215\nTeléfono Local: (834) 318 3900 ext. 1215",
+            "celular": "Celular: 83 4300 1124"
+        },
+        {
+            "id_sitio": 776,
+            "estado": "Tamaulipas",
+            "ciudad": "Matamoros",
+            "direccion": "CALLE SEXTA Y BRAVO NO. 84, COL. CENTRO, C.P. 87300, MATAMOROS, TAMAULIPAS. (ANTES CALLE SEXTA ESQUINA BRAVO NO. 1409, ZONA CENTRO, C.P. 87300.)",
+            "ing_cjf": "Héctor Valdez Perales",
+            "correo": "hector.valdez.perales@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #760 ext. 1215\nTeléfono Local: (834) 318 3900 ext. 1215",
+            "celular": "Celular: 83 4300 1124"
+        },
+        {
+            "id_sitio": 784,
+            "estado": "Tamaulipas",
+            "ciudad": "Nuevo Laredo",
+            "direccion": "AV. PASEO COLON 3360, COL. JARDIN, NUEVO LAREDO., C.P. 88260.",
+            "ing_cjf": "Tomás Carrizales Acosta",
+            "correo": "tomas.carrizales.acosta@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:#786 ext. 1079\nTeléfono Directo: (867) 000 0000",
+            "celular": "Celular: 86 7751 0793"
+        },
+        {
+            "id_sitio": 786,
+            "estado": "Tamaulipas",
+            "ciudad": "Nuevo Laredo",
+            "direccion": "AVENIDA OCAMPO NO. 1701 1ER. PISO, FRACCIONAMIENTO. OJO CALIENTE, NUEVO LAREDO, TAMAULIPAS, C.P. 88040.",
+            "ing_cjf": "Tomás Carrizales Acosta",
+            "correo": "tomas.carrizales.acosta@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red:#786 ext. 1079\nTeléfono Directo: (867) 000 0000",
+            "celular": "Celular: 86 7751 0793"
+        },
+        {
+            "id_sitio": 788,
+            "estado": "Tamaulipas",
+            "ciudad": "Cd. Madero",
+            "direccion": "BLVD. ADOLFO LÓPEZ MATEOS NO. 117 SUR, ENTRE AVENIDA MADERO Y CALLE OAXACA, COL. UNIDAD NACIONAL.",
+            "ing_cjf": "Héctor Valdez Perales",
+            "correo": "hector.valdez.perales@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #760 ext. 1215\nTeléfono Local: (834) 318 3900 ext. 1215",
+            "celular": "Celular: 83 4300 1124"
+        },
+        {
+            "id_sitio": 791,
+            "estado": "Tamaulipas",
+            "ciudad": "Tampico",
+            "direccion": "V. HIDALGO NO. 2303, COL. SMITH, C.P. 89140, ciudad TAMPICO, TAMAULIPAS.",
+            "ing_cjf": "Héctor Valdez Perales",
+            "correo": "hector.valdez.perales@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #760 ext. 1215\nTeléfono Local: (834) 318 3900 ext. 1215",
+            "celular": "Celular: 83 4300 1124"
+        },
+        {
+            "id_sitio": 800,
+            "estado": "Chiapas",
+            "ciudad": "Tuxtla Gutiérrez",
+            "direccion": "BOULEVARD ÁNGEL ALBINO CORZO NO. 2641, COLONIA LAS PALMAS, TUXTLA GUTIÉRREZ, CHIAPAS, C.P. 29040.",
+            "ing_cjf": "Eric Rivera Chamé",
+            "correo": "eric.rivera.chame@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #800 ext. 1019\nTeléfono Local: (961) 617 0207 ext. 1019\nTeléfono Directo: (961) 617 0207",
+            "celular": "Celular: 96 1262 6807"
+        },
+        {
+            "id_sitio": 802,
+            "estado": "Chiapas",
+            "ciudad": "Tuxtla Gutiérrez",
+            "direccion": "SEGUNDA SUR ORIENTE NO. 990, BARRIO SAN ROQUE, TUXTLA GUTIÉRREZ, CHIAPAS, C.P. 29000.",
+            "ing_cjf": "Eric Rivera Chamé",
+            "correo": "eric.rivera.chame@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #800 ext. 1019\nTeléfono Local: (961) 617 0207 ext. 1019\nTeléfono Directo: (961) 617 0207",
+            "celular": "Celular: 96 1262 6807"
+        },
+        {
+            "id_sitio": 807,
+            "estado": "Chiapas",
+            "ciudad": "Tapachula",
+            "direccion": "ONCEAVA CALLE PONIENTE SUR NUMERO 930 FRACCIONAMIENTO LAS TERRAZAS, TUXTLA GUTIERREZ CHIAPAS",
+            "ing_cjf": "Eric Rivera Chamé",
+            "correo": "eric.rivera.chame@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #800 ext. 1019\nTeléfono Local: (961) 617 0207 ext. 1019\nTeléfono Directo: (961) 617 0207",
+            "celular": "Celular: 96 1262 6807"
+        },
+        {
+            "id_sitio": 810,
+            "estado": "Chiapas",
+            "ciudad": "Cintalapa",
+            "direccion": "RANCHO \"SAN JOSÉ\", COL. LÁZARO CÁRDENAS, C.P. 30410, MUNICIPIO DE CINTALAPA, DE FIGUEROA, CHIAPAS.",
+            "ing_cjf": "Eric Rivera Chamé",
+            "correo": "eric.rivera.chame@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #800 ext. 1019\nTeléfono Local: (961) 617 0207 ext. 1019\nTeléfono Directo: (961) 617 0207",
+            "celular": "Celular: 96 1262 6807"
+        },
+        {
+            "id_sitio": 811,
+            "estado": "Chiapas",
+            "ciudad": "Cintalapa",
+            "direccion": "TRAMO CARRETERO TAPANATEPEC-TUXTLA KM 61+856.5, COL. LÁZARO CÁRDENAS, C.P. 30410, CINTALAPA DE FIGUEROA, CHIAPAS.",
+            "ing_cjf": "Eric Rivera Chamé",
+            "correo": "eric.rivera.chame@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #800 ext. 1019\nTeléfono Local: (961) 617 0207 ext. 1019\nTeléfono Directo: (961) 617 0207",
+            "celular": "Celular: 96 1262 6807"
+        },
+        {
+            "id_sitio": 812,
+            "estado": "Chiapas",
+            "ciudad": "cintalapa",
+            "direccion": "2a calle Oriente Norte No. 32, Col. Centro, C.P. 30400, Cintalapa, Chiapas.",
+            "ing_cjf": "Eric Rivera Chamé",
+            "correo": "eric.rivera.chame@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #800 ext. 1019\nTeléfono Local: (961) 617 0207 ext. 1019\nTeléfono Directo: (961) 617 0207",
+            "celular": "Celular: 96 1262 6807"
+        },
+        {
+            "id_sitio": 814,
+            "estado": "Chiapas",
+            "ciudad": "Tapachula",
+            "direccion": "CARRETERA AL CANTÓN MURILLO S\/N, A 300 METROS DEL PERIFERICO SUR PONIENTE, PREDIO DENOMINADO HUERTO SANTA ISABEL, TAPACHULA CHIAPAS.",
+            "ing_cjf": "Eric Rivera Chamé",
+            "correo": "eric.rivera.chame@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #800 ext. 1019\nTeléfono Local: (961) 617 0207 ext. 1019\nTeléfono Directo: (961) 617 0207",
+            "celular": "Celular: 96 1262 6807"
+        },
+        {
+            "id_sitio": 815,
+            "estado": "Chiapas",
+            "ciudad": "Tapachula",
+            "direccion": " PREDIO DENOMINADO \"HUERTO SANTA ISABEL\", EN LA CARRETERA AL CANTÓN \"MURILLO\" S\/N A 300M. DEL PERIFÉRICO SUR PONIENTE, C.P. 30700, EN TAPACHULA, CHIAPAS.",
+            "ing_cjf": "Eric Rivera Chamé",
+            "correo": "eric.rivera.chame@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #800 ext. 1019\nTeléfono Local: (961) 617 0207 ext. 1019\nTeléfono Directo: (961) 617 0207",
+            "celular": "Celular: 96 1262 6807"
+        },
+        {
+            "id_sitio": 820,
+            "estado": "Guerrero",
+            "ciudad": "Acapulco",
+            "direccion": "AV. GENERAL SALAZAR NO. 22, CENTRO, CUERNAVACA MOR. C.P. 62000.",
+            "ing_cjf": "Edgar de la Cruz Solorio",
+            "correo": "edgar.delacruz.solorio@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #820 ext. 3092\nTeléfono Local: (744) 435 1900 ext. 3092\nTeléfono Directo: (744) 466 0481",
+            "celular": "Celular: 74 4136 3324"
+        },
+        {
+            "id_sitio": 824,
+            "estado": "Guerrero",
+            "ciudad": "Chilpancingo",
+            "direccion": "BLVD. VICENTE GUERRERO KM. 274, FRACCIONAMIENTO LA CORTINA C.P. 39090, CHILPANCINGO, GUERRERO.",
+            "ing_cjf": "Alfredo Abarca Ayala",
+            "correo": "alfredo.abarca.ayala@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #824 ext. 1201\nTeléfono Local:\n(747) 494 2500 ext. 1201\nTeléfono Directo: (747) 471 0301",
+            "celular": "Celular: 74 4114 0619"
+        },
+        {
+            "id_sitio": 826,
+            "estado": "Guerrero",
+            "ciudad": "Chilpancingo",
+            "direccion": "PASEO ALEJANDRO CERVANTES DELGADO NO. 268., GALEANA.",
+            "ing_cjf": "Alfredo Abarca Ayala",
+            "correo": "alfredo.abarca.ayala@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #824 ext. 1201\nTeléfono Local:\n(747) 494 2500 ext. 1201\nTeléfono Directo: (747) 471 0301",
+            "celular": "Celular: 74 4114 0619"
+        },
+        {
+            "id_sitio": 827,
+            "estado": "Guerrero",
+            "ciudad": "Acapulco",
+            "direccion": "CALLE QUEBRADA ESQUINA CON JOSÉ MARÍA IGLESIAS NO. 118, LOTE 11, COLONIA CENTRO, C.P. 39300, EN ACAPULCO, GUERRERO.",
+            "ing_cjf": "Edgar de la Cruz Solorio",
+            "correo": "edgar.delacruz.solorio@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #820 ext. 3092\nTeléfono Local: (744) 435 1900 ext. 3092\nTeléfono Directo: (744) 466 0481",
+            "celular": "Celular: 74 4136 3324"
+        },
+        {
+            "id_sitio": 830,
+            "estado": "Guerrero",
+            "ciudad": "Chilpancingo",
+            "direccion": "AV. ÁLVAREZ NO. 78, CENTRO, CHILPANCINGO, GUERRERO, C.P. 39000.",
+            "ing_cjf": "Alfredo Abarca Ayala",
+            "correo": "alfredo.abarca.ayala@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #824 ext. 1201\nTeléfono Local:\n(747) 494 2500 ext. 1201\nTeléfono Directo: (747) 471 0301",
+            "celular": "Celular: 74 4114 0619"
+        },
+        {
+            "id_sitio": 834,
+            "estado": "Guerrero",
+            "ciudad": "Chilpancingo",
+            "direccion": "5 DE MAYO NO. 9, COL. CENTRO, CHILPANCINGO, GRO., C.P. 39000.",
+            "ing_cjf": "Alfredo Abarca Ayala",
+            "correo": "alfredo.abarca.ayala@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #824 ext. 1201\nTeléfono Local:\n(747) 494 2500 ext. 1201\nTeléfono Directo: (747) 471 0301",
+            "celular": "Celular: 74 4114 0619"
+        },
+        {
+            "id_sitio": 836,
+            "estado": "Guerrero",
+            "ciudad": "Iguala",
+            "direccion": "MARIANO MATAMOROS NO. 27, CENTRO, IGUALA, C.P. 40000.",
+            "ing_cjf": "Alfredo Abarca Ayala",
+            "correo": "alfredo.abarca.ayala@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #824 ext. 1201\nTeléfono Local:\n(747) 494 2500 ext. 1201\nTeléfono Directo: (747) 471 0301",
+            "celular": "Celular: 74 4114 0619"
+        },
+        {
+            "id_sitio": 838,
+            "estado": "Guerrero",
+            "ciudad": "Iguala",
+            "direccion": "JOAQUÍN BARANDA NO. 47, ESQ. GARCÍA DE LA CADENA, COL. CENTRO, IGUALA, GUERRERO, C.P. 40000.",
+            "ing_cjf": "Alfredo Abarca Ayala",
+            "correo": "alfredo.abarca.ayala@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #824 ext. 1201\nTeléfono Local:\n(747) 494 2500 ext. 1201\nTeléfono Directo: (747) 471 0301",
+            "celular": "Celular: 74 4114 0619"
+        },
+        {
+            "id_sitio": 840,
+            "estado": "Queretaro",
+            "ciudad": "Queretaro",
+            "direccion": "AV. FRAY LUIS DE LEÓN NO. 2880, COL. CENTRO SUR, QUERÉTARO.",
+            "ing_cjf": "David Alejandro López Aldana",
+            "correo": "david.lopez.aldana@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #840 ext. 1010\nTeléfono Local: (442) 235 7000 ext. 1010\nTeléfono Directo: (442) 235 7302",
+            "celular": "Celular: 44 2109 7317"
+        },
+        {
+            "id_sitio": 842,
+            "estado": "Queretaro",
+            "ciudad": "Queretaro",
+            "direccion": "FRACCION 111 CARRETERA CHICHIMEQUILLAS, SAN JOSE EL ALTO, MUNICIPIO DE QUERÉTARO, A UN CONSTADO DEL CERESO DE SAN JOSÉ EL ALTO.",
+            "ing_cjf": "David Alejandro López Aldana",
+            "correo": "david.lopez.aldana@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #840 ext. 1010\nTeléfono Local: (442) 235 7000 ext. 1010\nTeléfono Directo: (442) 235 7302",
+            "celular": "Celular: 44 2109 7317"
+        },
+        {
+            "id_sitio": 847,
+            "estado": "Queretaro",
+            "ciudad": "Queretaro",
+            "direccion": "AVENIDA DE LA SALVACIÓN NO. 781, EJIDO BOLAÑOS DE LA DELEGACIÓN VILLA CAYETANO RUBIO, EN QUERÉTARO, QUERÉTARO",
+            "ing_cjf": "David Alejandro López Aldana",
+            "correo": "david.lopez.aldana@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #840 ext. 1010\nTeléfono Local: (442) 235 7000 ext. 1010\nTeléfono Directo: (442) 235 7302",
+            "celular": "Celular: 44 2109 7317"
+        },
+        {
+            "id_sitio": 850,
+            "estado": "Queretaro",
+            "ciudad": "Queretaro",
+            "direccion": "ALLENDE NORTE NO.1, COL. CENTRO, C.P.76000, QUERÉTARO, QRO.",
+            "ing_cjf": "David Alejandro López Aldana",
+            "correo": "david.lopez.aldana@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #840 ext. 1010\nTeléfono Local: (442) 235 7000 ext. 1010\nTeléfono Directo: (442) 235 7302",
+            "celular": "Celular: 44 2109 7317"
+        },
+        {
+            "id_sitio": 856,
+            "estado": "Queretaro",
+            "ciudad": "Queretaro",
+            "direccion": "JOSÉ SIUROB NO. 13, ALAMEDA, QUERÉTARO, C.P. 76040. ",
+            "ing_cjf": "David Alejandro López Aldana",
+            "correo": "david.lopez.aldana@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #840 ext. 1010\nTeléfono Local: (442) 235 7000 ext. 1010\nTeléfono Directo: (442) 235 7302",
+            "celular": "Celular: 44 2109 7317"
+        },
+        {
+            "id_sitio": 860,
+            "estado": "Zacatecas",
+            "ciudad": "Zacatecas",
+            "direccion": "CALLE LATERAL NO. 1202, COL. CERRO DEL GATO, ZACATECAS, ZAC., C.P. 98160.",
+            "ing_cjf": "Gustavo Sánchez Enciso\/Hector Luna Covarruvias",
+            "correo": "gustavo.sanchez.enciso@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #860 ext. 1263\nTeléfono Local: (492) 491 4800 ext. 1263",
+            "celular": "Celular: 49 2103 1635"
+        },
+        {
+            "id_sitio": 861,
+            "estado": "Zacatecas",
+            "ciudad": "Zacatecas",
+            "direccion": "CALLE TIRO DE LA ESPERANZA S\/N, ENTRE EL DERECHO DE LA VÍA ANTIGUA CARRETERA A FRESNILLO Y DERECHO DE VÍA DEL FERROCARRIL, ciudad ADMINISTRATIVA EN ZACATECAS, ZACATECAS.",
+            "ing_cjf": "Gustavo Sánchez Enciso\/Hector Luna Covarruvias",
+            "correo": "gustavo.sanchez.enciso@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #860 ext. 1263\nTeléfono Local: (492) 491 4800 ext. 1263",
+            "celular": "Celular: 49 2103 1635"
+        },
+        {
+            "id_sitio": 880,
+            "estado": "Aguascalientes",
+            "ciudad": "Aguascalientes",
+            "direccion": "AV. AGUASCALIENTES SUR # 603, FRACCIONAMIENTO. JARDINES DE AGUASCALIENTES, AGUASCALIENTES, C.P. 20270. ",
+            "ing_cjf": "César Ramírez Rentería",
+            "correo": "cesar.ramirez.renteria@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #881 ext. 1900\nTeléfono Local: (449) 968 2310 ext. 1900",
+            "celular": "Celular: 44 9164 3361"
+        },
+        {
+            "id_sitio": 881,
+            "estado": "Aguascalientes",
+            "ciudad": "Aguascalientes",
+            "direccion": "INMUEBLE DENOMINADO FRACCIÓN NO. 2, PREDIO EL RANCHITO, CARRETERA AGUASCALIENTES-CALVILLO KM. 5, C.P. 20310, AGUASCALIENTES, AGS.",
+            "ing_cjf": "César Ramírez Rentería",
+            "correo": "cesar.ramirez.renteria@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #881 ext. 1900\nTeléfono Local: (449) 968 2310 ext. 1900",
+            "celular": "Celular: 44 9164 3361"
+        },
+        {
+            "id_sitio": 884,
+            "estado": "Aguascalientes",
+            "ciudad": "Aguascalientes",
+            "direccion": "BOULEVARD LIC. ADOLFO RUIZ CORTÍNEZ NO. 2311, FRACC. 2 PREDIO RÚSTICO, AGUASCALIENTES, AGS. C.P. 20310.",
+            "ing_cjf": "César Ramírez Rentería",
+            "correo": "cesar.ramirez.renteria@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #881 ext. 1900\nTeléfono Local: (449) 968 2310 ext. 1900",
+            "celular": "Celular: 44 9164 3361"
+        },
+        {
+            "id_sitio": 887,
+            "estado": "Nayarit",
+            "ciudad": "Tepic",
+            "ing_cjf": "Florentino Cruz Agredano",
+            "correo": "florentino.cruz.agredano@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #888 ext. 1100\nTeléfono Local: (311) 218 9815 ext. 01",
+            "celular": "Celular: 31 1225 3506"
+        },
+        {
+            "id_sitio": 888,
+            "estado": "Nayarit",
+            "ciudad": "Tepic",
+            "direccion": "AV. LAS BRISAS NO. EXT. 40, INTERIOR 42., FRACC. LAS BRISAS, PLAZA COMERCIAL FIESTA TEPIC., C.P. 63117.",
+            "ing_cjf": "Florentino Cruz Agredano",
+            "correo": "florentino.cruz.agredano@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #888 ext. 1100\nTeléfono Local: (311) 218 9815 ext. 01",
+            "celular": "Celular: 31 1225 3506"
+        },
+        {
+            "id_sitio": 890,
+            "estado": "Nayarit",
+            "ciudad": "Tepic",
+            "direccion": "BLVD. TEPIC-XALISCO NO. 521 SUR, CAJA DE AGUA, TEPIC, NAYARIT, C.P. 63158.",
+            "ing_cjf": "Florentino Cruz Agredano",
+            "correo": "florentino.cruz.agredano@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #888 ext. 1100\nTeléfono Local: (311) 218 9815 ext. 01",
+            "celular": "Celular: 31 1225 3506"
+        },
+        {
+            "id_sitio": 891,
+            "estado": "Nayarit",
+            "ciudad": "Tepic",
+            "direccion": "CALLE H. COLEGIO MILITAR (PASEO DE LA LOMA), NO. 165, MANZANA 50, COL. FRAY JUNÍPERO SERRA, C.P. 63169, TEPIC, NAY.",
+            "ing_cjf": "Florentino Cruz Agredano",
+            "correo": "florentino.cruz.agredano@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #888 ext. 1100\nTeléfono Local: (311) 218 9815 ext. 01",
+            "celular": "Celular: 31 1225 3506"
+        },
+        {
+            "id_sitio": 892,
+            "estado": "Nayarit",
+            "ciudad": "Tepic",
+            "direccion": "CALLE ALAMO NO. 127, SAN JUAN, TEPIC, NAYARIT, C.P. 63130.",
+            "ing_cjf": "Florentino Cruz Agredano",
+            "correo": "florentino.cruz.agredano@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #888 ext. 1100\nTeléfono Local: (311) 218 9815 ext. 01",
+            "celular": "Celular: 31 1225 3506"
+        },
+        {
+            "id_sitio": 894,
+            "estado": "Nayarit",
+            "ciudad": "Tepic",
+            "direccion": "AVENIDA INSURGENTES NO.868 PTE, FRACCIONAMIENTO LA HUERTA RESIDENCIAL, TEPIC, NAYARIT, C.P. 63070.",
+            "ing_cjf": "Florentino Cruz Agredano",
+            "correo": "florentino.cruz.agredano@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #888 ext. 1100\nTeléfono Local: (311) 218 9815 ext. 01",
+            "celular": "Celular: 31 1225 3506"
+        },
+        {
+            "id_sitio": 895,
+            "estado": "Nayarit",
+            "ciudad": "Tepic",
+            "direccion": "CEFERESO DE TEPIC CARRETERA LIBRE TEPIC, MAZATLÁN KM.10.6 EJIDO EL RINCÓN TEPIC NAYARIT.",
+            "ing_cjf": "Florentino Cruz Agredano",
+            "correo": "florentino.cruz.agredano@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #888 ext. 1100\nTeléfono Local: (311) 218 9815 ext. 01",
+            "celular": "Celular: 31 1225 3506"
+        },
+        {
+            "id_sitio": 896,
+            "estado": "Nayarit",
+            "ciudad": "Tepic",
+            "direccion": "ESTEBAN BACA CALDERÓN NO.11 PISO3 FRACC. JARDINES DE LA CRUZ TEPIC NAYARIT C.P.63168.",
+            "ing_cjf": "Florentino Cruz Agredano",
+            "correo": "florentino.cruz.agredano@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #888 ext. 1100\nTeléfono Local: (311) 218 9815 ext. 01",
+            "celular": "Celular: 31 1225 3506"
+        },
+        {
+            "id_sitio": 897,
+            "estado": "Nayarit",
+            "ciudad": "Tepic",
+            "direccion": "AV. AGUAMILPA NO. 275, COL. ciudad INDUSTRIAL, TEPIC, NAYARIT.",
+            "ing_cjf": "Florentino Cruz Agredano",
+            "correo": "florentino.cruz.agredano@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #888 ext. 1100\nTeléfono Local: (311) 218 9815 ext. 01",
+            "celular": "Celular: 31 1225 3506"
+        },
+        {
+            "id_sitio": 898,
+            "estado": "Nayarit",
+            "ciudad": "Tepic",
+            "direccion": "AV. MÉXICO No. 308, COL. SAN ANTONIO, TEPIC, NAY. ",
+            "ing_cjf": "Florentino Cruz Agredano",
+            "correo": "florentino.cruz.agredano@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #888 ext. 1100\nTeléfono Local: (311) 218 9815 ext. 01",
+            "celular": "Celular: 31 1225 3506"
+        },
+        {
+            "id_sitio": 901,
+            "estado": "Durango",
+            "ciudad": "Durango",
+            "direccion": "CENTRO DE JUSTICIA PENAL FEDERAL EN BOULEVARD LUIS DONALDO COLOSIO, ESQUINA CON BOULEVARD JOSÉ MARÍA PATONI S\/N.",
+            "ing_cjf": "Uriel Bayona",
+            "correo": "ubayona@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #901 ext. 2517\nTeléfono Local: (618) 204 1000 ext. 2517\nTeléfono Directo: (618) 204 1000",
+            "celular": "Celular: 61 8184 0436"
+        },
+        {
+            "id_sitio": 903,
+            "estado": "Durango",
+            "ciudad": "Durango",
+            "direccion": "BLVD. JOSÉ MARÍA PATONI NO. 103, DURANGO, DGO.",
+            "ing_cjf": "Uriel Bayona",
+            "correo": "ubayona@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #901 ext. 2517\nTeléfono Local: (618) 204 1000 ext. 2517\nTeléfono Directo: (618) 204 1000",
+            "celular": "Celular: 61 8184 0436"
+        },
+        {
+            "id_sitio": 907,
+            "estado": "Durango",
+            "ciudad": "Durango",
+            "direccion": "BOULEVARD FRANCISCO VILLA 602 COLONIA DEL MAESTRO CP 34240, DURANGO DURANGO.",
+            "ing_cjf": "Uriel Bayona",
+            "correo": "ubayona@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #901 ext. 2517\nTeléfono Local: (618) 204 1000 ext. 2517\nTeléfono Directo: (618) 204 1000",
+            "celular": "Celular: 61 8184 0436"
+        },
+        {
+            "id_sitio": 910,
+            "estado": "Baja California Sur",
+            "ciudad": "La Paz",
+            "direccion": "CALLE CONCHA NACAR NO. 4520. ENTRE MAR CARIBE, CARACOL Y CALLE SIN NOMBRE, COL. EL CONCHALITO, C.P. 23090, LA PAZ, B.C.S.",
+            "ing_cjf": "Pastor Félix Cozaín",
+            "correo": "pastor.felix.cozain@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #910 ext. 1002\nTeléfono Local: (612) 175 0540 ext. 1002\nTeléfono Directo: (612) 124 2256",
+            "celular": "Celular: 61 2108 7952"
+        },
+        {
+            "id_sitio": 911,
+            "estado": "Baja California Sur",
+            "ciudad": "La Paz",
+            "direccion": "CALLE ANTONIO ÁLVAREZ RICO, NO. 4115, COL. EMILIANO ZAPATA, C.P. 23070, LA PAZ, B. C. S.",
+            "ing_cjf": "Pastor Félix Cozaín",
+            "correo": "pastor.felix.cozain@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #910 ext. 1002\nTeléfono Local: (612) 175 0540 ext. 1002\nTeléfono Directo: (612) 124 2256",
+            "celular": "Celular: 61 2108 7952"
+        },
+        {
+            "id_sitio": 924,
+            "estado": "Quintana Roo",
+            "ciudad": "Cancún",
+            "direccion": "AV. ANDRÉS QUINTANA ROO NO.245, SM.50, MZ.57, LOTE 1, BENITO JUÁREZ, C.P. 77533.",
+            "ing_cjf": "Francisco Del Río Mora",
+            "correo": "francisco.delrio.mora@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #924 ext. 1405\nTeléfono Local: (998) 283 3000 ext. 1405\nTeléfono Directo: (998) 283 3072",
+            "celular": "Celular: 99 8845 3469"
+        },
+        {
+            "id_sitio": 926,
+            "estado": "Quintana Roo",
+            "ciudad": "Chetumal",
+            "direccion": "AV. JOSÉ MARÍA MORELOS NO. 348, ESQ. LAGUNA ENCANTADA, DAVID GUSTAVO GUTIERREZ, OTHÓN P. BLANCO, C.P. 77013.",
+            "ing_cjf": "Francisco Del Río Mora",
+            "correo": "francisco.delrio.mora@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #924 ext. 1405\nTeléfono Local: (998) 283 3000 ext. 1405\nTeléfono Directo: (998) 283 3072",
+            "celular": "Celular: 99 8845 3469"
+        },
+        {
+            "id_sitio": 928,
+            "estado": "Quintana Roo",
+            "ciudad": "Chetumal",
+            "direccion": "AV. ALVARO OBREGÓN NO. 232, CENTRO, OTHON P. BLANCO, C.P. 77000.",
+            "ing_cjf": "Francisco Del Río Mora",
+            "correo": "francisco.delrio.mora@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #924 ext. 1405\nTeléfono Local: (998) 283 3000 ext. 1405\nTeléfono Directo: (998) 283 3072",
+            "celular": "Celular: 99 8845 3469"
+        },
+        {
+            "id_sitio": 934,
+            "estado": "Tlaxcala",
+            "ciudad": "Tlaxcala",
+            "direccion": "SEGUNDA PRIVADA DE CEDROS NO. 9, DE LA COMUNIDAD DE SAN BUENAVENTURA, ATEMPAN, MUNICIPIO DE TLAXCALA, TLAXCALA.",
+            "ing_cjf": " Reyes Manuel Flores Galindo",
+            "correo": "rmflores@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #952 ext. 1000\nTeléfono Local: (241) 418 8190 ext. 1000",
+            "celular": " Celular: 22 12 86 03 02"
+        },
+        {
+            "id_sitio": 937,
+            "estado": "Tlaxcala",
+            "ciudad": "Tlaxcala",
+            "direccion": "PORFIRIO DÍAZ NO. 19, COLONIA CENTRO, TLAXCALA, TLAXCALA.",
+            "ing_cjf": " Reyes Manuel Flores Galindo",
+            "correo": "rmflores@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #952 ext. 1000\nTeléfono Local: (241) 418 8190 ext. 1000",
+            "celular": " Celular: 22 12 86 03 02"
+        },
+        {
+            "id_sitio": 940,
+            "estado": "Hidalgo",
+            "ciudad": "Pachuca",
+            "direccion": "BLVD. LUIS DONALDO COLOSIO NO. 1209, EDIFICIO A, PLANTA BAJA, RESERVA AQUILES SERDAN, PACHUCA, HGO., C.P. 42084.",
+            "ing_cjf": "Armando Barrera Reyes",
+            "correo": "armando.barrera.reyes@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #940 ext. 3040\nTeléfono Local: (771) 717 0660 ext. 3040\nTeléfono Directo: (771) 717 0666",
+            "celular": "Celular: 77 1180 8828"
+        },
+        {
+            "id_sitio": 944,
+            "estado": "Hidalgo",
+            "ciudad": "Pachuca",
+            "direccion": "BLVD. FELIPE ÁNGELES NO.1620, SANTA JULIA, C.P. 42080, PACHUCA, HIDALGO.",
+            "ing_cjf": "Armando Barrera Reyes",
+            "correo": "armando.barrera.reyes@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #940 ext. 3040\nTeléfono Local: (771) 717 0660 ext. 3040\nTeléfono Directo: (771) 717 0666",
+            "celular": "Celular: 77 1180 8828"
+        },
+        {
+            "id_sitio": 946,
+            "estado": "Hidalgo",
+            "ciudad": "Pachuca",
+            "direccion": "CAMINO REAL DE LA PLATA NO. 236, LOTE 63 SUPERMANZANA 1 L.C.2, FRACC. ZONA PLATEADA, C.P. 42084, PACHUCA, HIDALGO.",
+            "ing_cjf": "Armando Barrera Reyes",
+            "correo": "armando.barrera.reyes@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #940 ext. 3040\nTeléfono Local: (771) 717 0660 ext. 3040\nTeléfono Directo: (771) 717 0666",
+            "celular": "Celular: 77 1180 8828"
+        },
+        {
+            "id_sitio": 947,
+            "estado": "Hidalgo",
+            "ciudad": "Pachuca",
+            "direccion": "LOTE 5 Y 6 MANZANA G ZONA TURÍSTICA, SECCIÓN FUNDADORES, ÁREA HA-KIM-PECH, MALECÓN DE CAMPECHE, CAMPECHE",
+            "ing_cjf": "Armando Barrera Reyes",
+            "correo": "armando.barrera.reyes@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #940 ext. 3040\nTeléfono Local: (771) 717 0660 ext. 3040\nTeléfono Directo: (771) 717 0666",
+            "celular": "Celular: 77 1180 8828"
+        },
+        {
+            "id_sitio": 949,
+            "estado": "Hidalgo",
+            "ciudad": "Pachuca",
+            "direccion": "PLAN DE SAN LUIS NO. 1007, COL. SAN BARTOLO, C.P. 42039, PACHUCA DE SOTO, HIDALGO.",
+            "ing_cjf": "Armando Barrera Reyes",
+            "correo": "armando.barrera.reyes@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #940 ext. 3040\nTeléfono Local: (771) 717 0660 ext. 3040\nTeléfono Directo: (771) 717 0666",
+            "celular": "Celular: 77 1180 8828"
+        },
+        {
+            "id_sitio": 950,
+            "estado": "Tlaxcala",
+            "ciudad": "Tlaxcala",
+            "direccion": "MUNICIPIO DE APIZACO, TLAXCALA, UBICADO EN CARRETERA 136, LIBRAMIENTO A HUAMANTLA, PASANDO EL PUENTE RIO ZAHUAPAN, MANZANA IV, LOTE 1.",
+            "ing_cjf": " Reyes Manuel Flores Galindo",
+            "correo": "rmflores@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #952 ext. 1000\nTeléfono Local: (241) 418 8190 ext. 1000",
+            "celular": " Celular: 22 12 86 03 02"
+        },
+        {
+            "id_sitio": 951,
+            "estado": "Tlaxcala",
+            "ciudad": "Apizaco",
+            "direccion": "MUNICIPIO DE APIZACO, TLAXCALA, UBICADO EN CARRETERA 136, LIBRAMIENTO A HUAMANTLA, PASANDO EL PUENTE RIO ZAHUAPAN, MANZANA IV, LOTE 1.",
+            "ing_cjf": " Reyes Manuel Flores Galindo",
+            "correo": "rmflores@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #952 ext. 1000\nTeléfono Local: (241) 418 8190 ext. 1000",
+            "celular": " Celular: 22 12 86 03 02"
+        },
+        {
+            "id_sitio": 952,
+            "estado": "Tlaxcala",
+            "ciudad": "Tlaxcala",
+            "direccion": "PREDIO RUSTICO MANZANA IV, LOTE 1, SANTA ANITA HUILOAC, C.P 90407, MUNICIPIO APIZACO, TLAXCALA.",
+            "ing_cjf": " Reyes Manuel Flores Galindo",
+            "correo": "rmflores@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #952 ext. 1000\nTeléfono Local: (241) 418 8190 ext. 1000",
+            "celular": " Celular: 22 12 86 03 02"
+        },
+        {
+            "id_sitio": 954,
+            "estado": "Tlaxcala",
+            "ciudad": "Tetla de la Solidaridad",
+            "direccion": "BODEGA DENOMINADA “CALE 7”, UBICADA EN LOTE ÚNICO DE LA MANZANA 2, SECCIÓN “C”, ciudad INDUSTRIAL XICONTÉNCATL, MUNICIPIO DE TETLA DE LA SOLIDARIDAD, TLAXCALA.",
+            "ing_cjf": " Reyes Manuel Flores Galindo",
+            "correo": "rmflores@cjf.gob.mx",
+            "telefono": "Teléfono de Red: #952 ext. 1000\nTeléfono Local: (241) 418 8190 ext. 1000",
+            "celular": " Celular: 22 12 86 03 02"
+        },
+        {
+            "id_sitio": 609,
+            "estado": "Sinaloa",
+            "ciudad": "Los Mochis",
+            "direccion": "Boulevard Antonio Rosales, esquina con Boulevard Zacarías Ochoa Camacho, en Los Mochis, Municipio de Ahome, Sinaloa.",
+            "ing_cjf": "JESUS BENJAMIN QUINTERO PALACIOS",
+            "correo": "jesus.quintero.palacios@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #612 ext. 1142\nTeléfono Directo: (66) 812 4843",
+            "celular": "Celular: 66 8856 0044"
+        },
+        {
+            "id_sitio": 407,
+            "estado": "Nuevo León",
+            "ciudad": "Monterrey",
+            "direccion": "Av. San Jerónimo 999, col. San Jerónimo, C.P. 64640, Monterrey, Nuevo León. ",
+            "ing_cjf": "Edgar Omar Portales Flores",
+            "correo": "edgar.portales.flores@correo.cjf.gob.mx",
+            "telefono": "Teléfono de Red: #400 ext. 2342\nTeléfono Local: (81) 8133 2200 ext. 2342\nTeléfono Directo: (81) 8133 3220",
+            "celular": "Celular: 81 8020 3150"
+        }
+    ]
+}

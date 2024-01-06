@@ -1,0 +1,8 @@
+<div class="container pt-3">
+    <div class="row">
+        <app-search-input (callback-data)="setData($event)"></app-search-input>
+    </div>
+    <div class="result-wrapper">
+        <app-results-area [results]="resultList"></app-results-area>
+    </div>
+</div>
