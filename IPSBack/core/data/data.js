@@ -1,4 +1,4 @@
-{
+const data = {
     "data": [
         {
             "id_sitio": 300,
@@ -2326,4 +2326,8 @@
             "celular": "Celular: 81 8020 3150"
         }
     ]
+}
+
+module.exports = {
+    data
 }

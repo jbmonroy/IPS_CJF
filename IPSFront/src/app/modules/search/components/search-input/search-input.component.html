@@ -1,6 +1,7 @@
-<div class="search-cmp">
+<div class="search-cmp d-flex justify-content-between align-items-center">
     <mat-form-field>
         <mat-label>Search by id or name</mat-label>
         <input type="text" matInput [(ngModel)]="src" (ngModelChange)="search($event)">
     </mat-form-field>
+    <button mat-button (click)="logOut()" color="primary">Log Out</button>
 </div>
